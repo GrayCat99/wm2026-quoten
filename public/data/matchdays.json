@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T03:31:42.439Z",
+  "updatedAt": "2026-06-20T08:53:22.901Z",
   "matchdays": {
     "1": [
       {
@@ -476,12 +476,12 @@
         "teamA": "Turkey",
         "teamB": "Paraguay",
         "venue": "Levi's Stadium, Santa Clara",
-        "probA": 25,
-        "probDraw": 29,
-        "probB": 46,
-        "oddsA": 3.75,
-        "oddsDraw": 3.16,
-        "oddsB": 2,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -492,11 +492,11 @@
         "teamB": "Sweden",
         "venue": "Houston Stadium, Houston",
         "probA": 56,
-        "probDraw": 23,
-        "probB": 21,
+        "probDraw": 24,
+        "probB": 20,
         "oddsA": 1.72,
-        "oddsDraw": 4.1,
-        "oddsB": 4.67,
+        "oddsDraw": 4.095,
+        "oddsB": 4.8,
         "played": false
       },
       {
@@ -510,7 +510,7 @@
         "probDraw": 21,
         "probB": 16,
         "oddsA": 1.53,
-        "oddsDraw": 4.7,
+        "oddsDraw": 4.67,
         "oddsB": 5.95,
         "played": false
       },
@@ -524,9 +524,9 @@
         "probA": 86,
         "probDraw": 10,
         "probB": 4,
-        "oddsA": 1.11,
-        "oddsDraw": 9.59,
-        "oddsB": 23,
+        "oddsA": 1.13,
+        "oddsDraw": 9.5,
+        "oddsB": 22,
         "played": false
       },
       {
@@ -537,11 +537,11 @@
         "teamB": "Japan",
         "venue": "Estadio Monterrey, Guadalupe",
         "probA": 15,
-        "probDraw": 23,
-        "probB": 62,
-        "oddsA": 6.45,
-        "oddsDraw": 4.09,
-        "oddsB": 1.56,
+        "probDraw": 24,
+        "probB": 61,
+        "oddsA": 6.5,
+        "oddsDraw": 4,
+        "oddsB": 1.58,
         "played": false
       },
       {
@@ -551,12 +551,12 @@
         "teamA": "Spain",
         "teamB": "Saudi Arabia",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 87,
+        "probA": 88,
         "probDraw": 9,
-        "probB": 4,
-        "oddsA": 1.1,
-        "oddsDraw": 10.25,
-        "oddsB": 26,
+        "probB": 3,
+        "oddsA": 1.09,
+        "oddsDraw": 10.75,
+        "oddsB": 28,
         "played": false
       },
       {
@@ -571,7 +571,7 @@
         "probB": 13,
         "oddsA": 1.43,
         "oddsDraw": 4.7,
-        "oddsB": 7.67,
+        "oddsB": 7.6,
         "played": false
       },
       {
@@ -586,7 +586,7 @@
         "probB": 12,
         "oddsA": 1.45,
         "oddsDraw": 4.25,
-        "oddsB": 8.3,
+        "oddsB": 8.25,
         "played": false
       },
       {
@@ -599,9 +599,9 @@
         "probA": 17,
         "probDraw": 23,
         "probB": 60,
-        "oddsA": 5.6,
-        "oddsDraw": 4.1,
-        "oddsB": 1.61,
+        "oddsA": 5.7,
+        "oddsDraw": 4.15,
+        "oddsB": 1.6,
         "played": false
       },
       {
@@ -691,7 +691,7 @@
         "probB": 7,
         "oddsA": 1.22,
         "oddsDraw": 6.5,
-        "oddsB": 13.52,
+        "oddsB": 14,
         "played": false
       },
       {
@@ -748,11 +748,11 @@
         "teamA": "Bosnia and Herzegovina",
         "teamB": "Qatar",
         "venue": "Seattle Stadium, Seattle",
-        "probA": 66,
-        "probDraw": 20,
+        "probA": 67,
+        "probDraw": 19,
         "probB": 14,
         "oddsA": 1.43,
-        "oddsDraw": 4.87,
+        "oddsDraw": 4.88,
         "oddsB": 6.8,
         "played": false
       },
@@ -763,12 +763,12 @@
         "teamA": "Scotland",
         "teamB": "Brazil",
         "venue": "Miami Stadium, Miami",
-        "probA": 13,
+        "probA": 12,
         "probDraw": 19,
-        "probB": 68,
-        "oddsA": 7.5,
-        "oddsDraw": 4.95,
-        "oddsB": 1.4,
+        "probB": 69,
+        "oddsA": 7.9,
+        "oddsDraw": 5.074999999999999,
+        "oddsB": 1.38,
         "played": false
       },
       {
@@ -778,12 +778,12 @@
         "teamA": "Morocco",
         "teamB": "Haiti",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 78,
-        "probDraw": 15,
-        "probB": 7,
-        "oddsA": 1.205,
-        "oddsDraw": 6.37,
-        "oddsB": 14,
+        "probA": 80,
+        "probDraw": 14,
+        "probB": 6,
+        "oddsA": 1.2,
+        "oddsDraw": 6.725,
+        "oddsB": 15,
         "played": false
       },
       {
@@ -793,12 +793,12 @@
         "teamA": "Czechia",
         "teamB": "Mexico",
         "venue": "Mexico City Stadium, Mexico City",
-        "probA": 28,
+        "probA": 27,
         "probDraw": 26,
-        "probB": 46,
-        "oddsA": 3.4299999999999997,
-        "oddsDraw": 3.615,
-        "oddsB": 2.0549999999999997,
+        "probB": 47,
+        "oddsA": 3.5599999999999996,
+        "oddsDraw": 3.65,
+        "oddsB": 2.01,
         "played": false
       },
       {
@@ -826,9 +826,9 @@
         "probA": 19,
         "probDraw": 25,
         "probB": 56,
-        "oddsA": 4.92,
-        "oddsDraw": 3.8,
-        "oddsB": 1.71,
+        "oddsA": 5,
+        "oddsDraw": 3.82,
+        "oddsB": 1.7,
         "played": false
       },
       {
@@ -869,11 +869,11 @@
         "teamB": "Netherlands",
         "venue": "Kansas City Stadium, Kansas City",
         "probA": 10,
-        "probDraw": 18,
-        "probB": 72,
-        "oddsA": 9.5,
-        "oddsDraw": 5.375,
-        "oddsB": 1.315,
+        "probDraw": 17,
+        "probB": 73,
+        "oddsA": 9.54,
+        "oddsDraw": 5.45,
+        "oddsB": 1.3,
         "played": false
       },
       {
@@ -883,12 +883,12 @@
         "teamA": "Turkey",
         "teamB": "United States",
         "venue": "Los Angeles Stadium, Los Angeles",
-        "probA": 35,
-        "probDraw": 25,
-        "probB": 40,
-        "oddsA": 2.68,
-        "oddsDraw": 3.85,
-        "oddsB": 2.4,
+        "probA": 31,
+        "probDraw": 24,
+        "probB": 45,
+        "oddsA": 3.1,
+        "oddsDraw": 3.9,
+        "oddsB": 2.12,
         "played": false
       },
       {
@@ -898,12 +898,12 @@
         "teamA": "Paraguay",
         "teamB": "Australia",
         "venue": "San Francisco Bay Area Stadium",
-        "probA": 44,
-        "probDraw": 28,
-        "probB": 28,
-        "oddsA": 2.16,
-        "oddsDraw": 3.38,
-        "oddsB": 3.5,
+        "probA": 35,
+        "probDraw": 40,
+        "probB": 25,
+        "oddsA": 2.71,
+        "oddsDraw": 2.35,
+        "oddsB": 3.8,
         "played": false
       },
       {
@@ -932,7 +932,7 @@
         "probDraw": 18,
         "probB": 9,
         "oddsA": 1.3,
-        "oddsDraw": 5.35,
+        "oddsDraw": 5.4,
         "oddsB": 10.25,
         "played": false
       },
@@ -947,7 +947,7 @@
         "probDraw": 26,
         "probB": 40,
         "oddsA": 2.75,
-        "oddsDraw": 3.6,
+        "oddsDraw": 3.62,
         "oddsB": 2.4,
         "played": false
       },
@@ -978,7 +978,7 @@
         "probB": 25,
         "oddsA": 2.1,
         "oddsDraw": 3.15,
-        "oddsB": 3.88,
+        "oddsB": 3.9,
         "played": false
       },
       {
@@ -1006,9 +1006,9 @@
         "probA": 9,
         "probDraw": 15,
         "probB": 76,
-        "oddsA": 10.825,
+        "oddsA": 11,
         "oddsDraw": 6.1899999999999995,
-        "oddsB": 1.2349999999999999,
+        "oddsB": 1.24,
         "played": false
       },
       {
@@ -1018,11 +1018,11 @@
         "teamA": "Croatia",
         "teamB": "Ghana",
         "venue": "Philadelphia Stadium, Philadelphia",
-        "probA": 58,
-        "probDraw": 25,
+        "probA": 59,
+        "probDraw": 24,
         "probB": 17,
-        "oddsA": 1.6,
-        "oddsDraw": 3.8049999999999997,
+        "oddsA": 1.61,
+        "oddsDraw": 3.855,
         "oddsB": 5.6,
         "played": false
       },
@@ -1033,11 +1033,11 @@
         "teamA": "Colombia",
         "teamB": "Portugal",
         "venue": "Miami Stadium, Miami",
-        "probA": 26,
-        "probDraw": 28,
+        "probA": 27,
+        "probDraw": 27,
         "probB": 46,
         "oddsA": 3.55,
-        "oddsDraw": 3.4,
+        "oddsDraw": 3.43,
         "oddsB": 2.05,
         "played": false
       },
@@ -1048,11 +1048,11 @@
         "teamA": "DR Congo",
         "teamB": "Uzbekistan",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 44,
-        "probDraw": 27,
+        "probA": 45,
+        "probDraw": 26,
         "probB": 29,
         "oddsA": 2.1100000000000003,
-        "oddsDraw": 3.5,
+        "oddsDraw": 3.55,
         "oddsB": 3.25,
         "played": false
       },
@@ -1066,8 +1066,8 @@
         "probA": 31,
         "probDraw": 31,
         "probB": 38,
-        "oddsA": 3.05,
-        "oddsDraw": 3.075,
+        "oddsA": 3.0599999999999996,
+        "oddsDraw": 3.0549999999999997,
         "oddsB": 2.48,
         "played": false
       },
