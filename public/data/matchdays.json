@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T04:02:55.109Z",
+  "updatedAt": "2026-06-21T09:47:11.008Z",
   "matchdays": {
     "1": [
       {
@@ -536,12 +536,12 @@
         "teamA": "Tunisia",
         "teamB": "Japan",
         "venue": "Estadio Monterrey, Guadalupe",
-        "probA": 12,
-        "probDraw": 23,
-        "probB": 65,
-        "oddsA": 7.675,
-        "oddsDraw": 4.2,
-        "oddsB": 1.44,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -555,7 +555,7 @@
         "probDraw": 9,
         "probB": 4,
         "oddsA": 1.1,
-        "oddsDraw": 10.375,
+        "oddsDraw": 10.5,
         "oddsB": 26,
         "played": false
       },
@@ -566,12 +566,12 @@
         "teamA": "Belgium",
         "teamB": "Iran",
         "venue": "Los Angeles Stadium, Los Angeles",
-        "probA": 68,
+        "probA": 67,
         "probDraw": 20,
-        "probB": 12,
-        "oddsA": 1.42,
-        "oddsDraw": 4.7,
-        "oddsB": 7.85,
+        "probB": 13,
+        "oddsA": 1.44,
+        "oddsDraw": 4.75,
+        "oddsB": 7.75,
         "played": false
       },
       {
@@ -584,9 +584,9 @@
         "probA": 66,
         "probDraw": 23,
         "probB": 11,
-        "oddsA": 1.45,
-        "oddsDraw": 4.225,
-        "oddsB": 8.32,
+        "oddsA": 1.47,
+        "oddsDraw": 4.25,
+        "oddsB": 8.45,
         "played": false
       },
       {
@@ -596,12 +596,12 @@
         "teamA": "New Zealand",
         "teamB": "Egypt",
         "venue": "BC Place, Vancouver",
-        "probA": 17,
-        "probDraw": 23,
+        "probA": 16,
+        "probDraw": 24,
         "probB": 60,
-        "oddsA": 5.845,
-        "oddsDraw": 4.125,
-        "oddsB": 1.5950000000000002,
+        "oddsA": 6.1,
+        "oddsDraw": 4.1,
+        "oddsB": 1.6,
         "played": false
       },
       {
@@ -611,12 +611,12 @@
         "teamA": "Argentina",
         "teamB": "Austria",
         "venue": "Dallas Stadium, Dallas",
-        "probA": 61,
-        "probDraw": 24,
+        "probA": 62,
+        "probDraw": 23,
         "probB": 15,
-        "oddsA": 1.57,
-        "oddsDraw": 4.045,
-        "oddsB": 6.25,
+        "oddsA": 1.54,
+        "oddsDraw": 4.1,
+        "oddsB": 6.63,
         "played": false
       },
       {
@@ -626,12 +626,12 @@
         "teamA": "France",
         "teamB": "Iraq",
         "venue": "Philadelphia Stadium, Philadelphia",
-        "probA": 88,
-        "probDraw": 9,
+        "probA": 89,
+        "probDraw": 8,
         "probB": 3,
         "oddsA": 1.08,
-        "oddsDraw": 11.375,
-        "oddsB": 29.5,
+        "oddsDraw": 11.5,
+        "oddsB": 31,
         "played": false
       },
       {
@@ -645,7 +645,7 @@
         "probDraw": 27,
         "probB": 30,
         "oddsA": 2.25,
-        "oddsDraw": 3.5,
+        "oddsDraw": 3.55,
         "oddsB": 3.15,
         "played": false
       },
@@ -659,9 +659,9 @@
         "probA": 16,
         "probDraw": 23,
         "probB": 61,
-        "oddsA": 5.925000000000001,
+        "oddsA": 6,
         "oddsDraw": 4.15,
-        "oddsB": 1.565,
+        "oddsB": 1.57,
         "played": false
       },
       {
@@ -674,7 +674,7 @@
         "probA": 80,
         "probDraw": 14,
         "probB": 6,
-        "oddsA": 1.205,
+        "oddsA": 1.2,
         "oddsDraw": 7,
         "oddsB": 15,
         "played": false
@@ -689,8 +689,8 @@
         "probA": 79,
         "probDraw": 14,
         "probB": 7,
-        "oddsA": 1.2149999999999999,
-        "oddsDraw": 6.63,
+        "oddsA": 1.21,
+        "oddsDraw": 6.6,
         "oddsB": 14,
         "played": false
       },
@@ -704,9 +704,9 @@
         "probA": 14,
         "probDraw": 24,
         "probB": 62,
-        "oddsA": 6.7,
+        "oddsA": 6.75,
         "oddsDraw": 4,
-        "oddsB": 1.545,
+        "oddsB": 1.54,
         "played": false
       },
       {
@@ -720,7 +720,7 @@
         "probDraw": 23,
         "probB": 13,
         "oddsA": 1.5,
-        "oddsDraw": 4.205,
+        "oddsDraw": 4.2,
         "oddsB": 7,
         "played": false
       }
@@ -736,8 +736,8 @@
         "probA": 39,
         "probDraw": 31,
         "probB": 30,
-        "oddsA": 2.435,
-        "oddsDraw": 3.09,
+        "oddsA": 2.44,
+        "oddsDraw": 3.08,
         "oddsB": 3.23,
         "played": false
       },
@@ -751,8 +751,8 @@
         "probA": 67,
         "probDraw": 19,
         "probB": 14,
-        "oddsA": 1.4249999999999998,
-        "oddsDraw": 4.925000000000001,
+        "oddsA": 1.43,
+        "oddsDraw": 4.9,
         "oddsB": 7,
         "played": false
       },
@@ -763,11 +763,11 @@
         "teamA": "Scotland",
         "teamB": "Brazil",
         "venue": "Miami Stadium, Miami",
-        "probA": 13,
-        "probDraw": 18,
+        "probA": 12,
+        "probDraw": 19,
         "probB": 69,
-        "oddsA": 7.575,
-        "oddsDraw": 5.25,
+        "oddsA": 8,
+        "oddsDraw": 5.1,
         "oddsB": 1.38,
         "played": false
       },
@@ -781,8 +781,8 @@
         "probA": 80,
         "probDraw": 14,
         "probB": 6,
-        "oddsA": 1.19,
-        "oddsDraw": 6.92,
+        "oddsA": 1.18,
+        "oddsDraw": 6.9,
         "oddsB": 16,
         "played": false
       },
@@ -796,9 +796,9 @@
         "probA": 26,
         "probDraw": 25,
         "probB": 49,
-        "oddsA": 3.6399999999999997,
+        "oddsA": 3.7,
         "oddsDraw": 3.8,
-        "oddsB": 1.975,
+        "oddsB": 1.97,
         "played": false
       },
       {
@@ -813,7 +813,7 @@
         "probB": 59,
         "oddsA": 5.75,
         "oddsDraw": 4,
-        "oddsB": 1.605,
+        "oddsB": 1.61,
         "played": false
       },
       {
@@ -823,12 +823,12 @@
         "teamA": "Ecuador",
         "teamB": "Germany",
         "venue": "New York New Jersey Stadium",
-        "probA": 25,
-        "probDraw": 26,
-        "probB": 49,
-        "oddsA": 3.75,
-        "oddsDraw": 3.65,
-        "oddsB": 1.95,
+        "probA": 27,
+        "probDraw": 25,
+        "probB": 48,
+        "oddsA": 3.58,
+        "oddsDraw": 3.7350000000000003,
+        "oddsB": 1.99,
         "played": false
       },
       {
@@ -841,9 +841,9 @@
         "probA": 5,
         "probDraw": 11,
         "probB": 84,
-        "oddsA": 19.26,
-        "oddsDraw": 8.7,
-        "oddsB": 1.13,
+        "oddsA": 19.130000000000003,
+        "oddsDraw": 8.5,
+        "oddsB": 1.14,
         "played": false
       },
       {
@@ -853,12 +853,12 @@
         "teamA": "Japan",
         "teamB": "Sweden",
         "venue": "Dallas Stadium, Dallas",
-        "probA": 45,
+        "probA": 46,
         "probDraw": 28,
-        "probB": 27,
-        "oddsA": 2.1,
-        "oddsDraw": 3.35,
-        "oddsB": 3.6,
+        "probB": 26,
+        "oddsA": 2.0549999999999997,
+        "oddsDraw": 3.375,
+        "oddsB": 3.745,
         "played": false
       },
       {
@@ -868,12 +868,12 @@
         "teamA": "Tunisia",
         "teamB": "Netherlands",
         "venue": "Kansas City Stadium, Kansas City",
-        "probA": 9,
-        "probDraw": 16,
-        "probB": 75,
-        "oddsA": 11.25,
-        "oddsDraw": 5.8,
-        "oddsB": 1.275,
+        "probA": 5,
+        "probDraw": 12,
+        "probB": 83,
+        "oddsA": 18.125,
+        "oddsDraw": 7.9,
+        "oddsB": 1.1549999999999998,
         "played": false
       },
       {
@@ -883,12 +883,12 @@
         "teamA": "Turkey",
         "teamB": "United States",
         "venue": "Los Angeles Stadium, Los Angeles",
-        "probA": 31,
+        "probA": 29,
         "probDraw": 23,
-        "probB": 46,
-        "oddsA": 3.1,
+        "probB": 48,
+        "oddsA": 3.3,
         "oddsDraw": 4.1,
-        "oddsB": 2.1,
+        "oddsB": 2.005,
         "played": false
       },
       {
@@ -901,9 +901,9 @@
         "probA": 34,
         "probDraw": 42,
         "probB": 24,
-        "oddsA": 2.82,
+        "oddsA": 2.85,
         "oddsDraw": 2.3,
-        "oddsB": 3.925,
+        "oddsB": 3.9,
         "played": false
       },
       {
@@ -918,7 +918,7 @@
         "probB": 53,
         "oddsA": 4.35,
         "oddsDraw": 3.75,
-        "oddsB": 1.8,
+        "oddsB": 1.795,
         "played": false
       },
       {
@@ -933,7 +933,7 @@
         "probB": 9,
         "oddsA": 1.3,
         "oddsDraw": 5.5,
-        "oddsB": 10.22,
+        "oddsB": 10.235,
         "played": false
       },
       {
@@ -977,7 +977,7 @@
         "probDraw": 30,
         "probB": 24,
         "oddsA": 2.07,
-        "oddsDraw": 3.2,
+        "oddsDraw": 3.15,
         "oddsB": 3.93,
         "played": false
       },
@@ -988,11 +988,11 @@
         "teamA": "New Zealand",
         "teamB": "Belgium",
         "venue": "BC Place, Vancouver",
-        "probA": 8,
+        "probA": 7,
         "probDraw": 15,
-        "probB": 77,
-        "oddsA": 12.74,
-        "oddsDraw": 6.1899999999999995,
+        "probB": 78,
+        "oddsA": 12.75,
+        "oddsDraw": 6.25,
         "oddsB": 1.22,
         "played": false
       },
@@ -1003,12 +1003,12 @@
         "teamA": "Panama",
         "teamB": "England",
         "venue": "New York New Jersey Stadium",
-        "probA": 9,
+        "probA": 8,
         "probDraw": 14,
-        "probB": 77,
-        "oddsA": 11,
+        "probB": 78,
+        "oddsA": 11.75,
         "oddsDraw": 6.6,
-        "oddsB": 1.23,
+        "oddsB": 1.22,
         "played": false
       },
       {
@@ -1036,9 +1036,9 @@
         "probA": 26,
         "probDraw": 28,
         "probB": 46,
-        "oddsA": 3.55,
-        "oddsDraw": 3.4050000000000002,
-        "oddsB": 2.05,
+        "oddsA": 3.58,
+        "oddsDraw": 3.45,
+        "oddsB": 2.07,
         "played": false
       },
       {
@@ -1048,11 +1048,11 @@
         "teamA": "DR Congo",
         "teamB": "Uzbekistan",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 46,
-        "probDraw": 26,
+        "probA": 45,
+        "probDraw": 27,
         "probB": 28,
-        "oddsA": 2.075,
-        "oddsDraw": 3.575,
+        "oddsA": 2.1,
+        "oddsDraw": 3.6,
         "oddsB": 3.4,
         "played": false
       },
@@ -1066,8 +1066,8 @@
         "probA": 31,
         "probDraw": 31,
         "probB": 38,
-        "oddsA": 3.03,
-        "oddsDraw": 3.0549999999999997,
+        "oddsA": 3.07,
+        "oddsDraw": 3.09,
         "oddsB": 2.48,
         "played": false
       },
@@ -1081,8 +1081,8 @@
         "probA": 7,
         "probDraw": 14,
         "probB": 79,
-        "oddsA": 13.745000000000001,
-        "oddsDraw": 6.835,
+        "oddsA": 14,
+        "oddsDraw": 6.9,
         "oddsB": 1.2,
         "played": false
       }
