@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T09:25:46.150Z",
+  "updatedAt": "2026-06-24T14:29:07.919Z",
   "matchdays": {
     "1": [
       {
@@ -733,12 +733,12 @@
         "teamA": "Switzerland",
         "teamB": "Canada",
         "venue": "BC Place, Vancouver",
-        "probA": 41,
+        "probA": 40,
         "probDraw": 31,
-        "probB": 28,
-        "oddsA": 2.38,
+        "probB": 29,
+        "oddsA": 2.42,
         "oddsDraw": 3.1,
-        "oddsB": 3.4,
+        "oddsB": 3.325,
         "played": false
       },
       {
@@ -748,12 +748,12 @@
         "teamA": "Bosnia and Herzegovina",
         "teamB": "Qatar",
         "venue": "Seattle Stadium, Seattle",
-        "probA": 69,
+        "probA": 70,
         "probDraw": 18,
-        "probB": 13,
-        "oddsA": 1.4,
-        "oddsDraw": 5.25,
-        "oddsB": 7.5,
+        "probB": 12,
+        "oddsA": 1.37,
+        "oddsDraw": 5.425000000000001,
+        "oddsB": 8,
         "played": false
       },
       {
@@ -766,9 +766,9 @@
         "probA": 10,
         "probDraw": 17,
         "probB": 73,
-        "oddsA": 9.5,
-        "oddsDraw": 5.6,
-        "oddsB": 1.3250000000000002,
+        "oddsA": 9.9,
+        "oddsDraw": 5.75,
+        "oddsB": 1.32,
         "played": false
       },
       {
@@ -778,12 +778,12 @@
         "teamA": "Morocco",
         "teamB": "Haiti",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 81,
+        "probA": 82,
         "probDraw": 13,
-        "probB": 6,
-        "oddsA": 1.19,
+        "probB": 5,
+        "oddsA": 1.18,
         "oddsDraw": 7.5,
-        "oddsB": 17,
+        "oddsB": 17.72,
         "played": false
       },
       {
@@ -793,12 +793,12 @@
         "teamA": "Czechia",
         "teamB": "Mexico",
         "venue": "Mexico City Stadium, Mexico City",
-        "probA": 26,
+        "probA": 25,
         "probDraw": 25,
-        "probB": 49,
-        "oddsA": 3.72,
+        "probB": 50,
+        "oddsA": 3.75,
         "oddsDraw": 3.9,
-        "oddsB": 1.95,
+        "oddsB": 1.93,
         "played": false
       },
       {
@@ -808,12 +808,12 @@
         "teamA": "South Africa",
         "teamB": "South Korea",
         "venue": "Estadio Monterrey, Guadalupe",
-        "probA": 17,
-        "probDraw": 25,
-        "probB": 58,
-        "oddsA": 5.6,
-        "oddsDraw": 3.87,
-        "oddsB": 1.68,
+        "probA": 16,
+        "probDraw": 24,
+        "probB": 60,
+        "oddsA": 6,
+        "oddsDraw": 3.975,
+        "oddsB": 1.6,
         "played": false
       },
       {
@@ -824,11 +824,11 @@
         "teamB": "Germany",
         "venue": "New York New Jersey Stadium",
         "probA": 25,
-        "probDraw": 24,
-        "probB": 51,
-        "oddsA": 3.8,
-        "oddsDraw": 4,
-        "oddsB": 1.86,
+        "probDraw": 23,
+        "probB": 52,
+        "oddsA": 3.85,
+        "oddsDraw": 4.0649999999999995,
+        "oddsB": 1.85,
         "played": false
       },
       {
@@ -841,8 +841,8 @@
         "probA": 5,
         "probDraw": 12,
         "probB": 83,
-        "oddsA": 19.25,
-        "oddsDraw": 8.09,
+        "oddsA": 18.75,
+        "oddsDraw": 8.1,
         "oddsB": 1.15,
         "played": false
       },
@@ -853,12 +853,12 @@
         "teamA": "Japan",
         "teamB": "Sweden",
         "venue": "Dallas Stadium, Dallas",
-        "probA": 50,
+        "probA": 51,
         "probDraw": 27,
-        "probB": 23,
-        "oddsA": 1.9,
-        "oddsDraw": 3.5,
-        "oddsB": 4.25,
+        "probB": 22,
+        "oddsA": 1.88,
+        "oddsDraw": 3.545,
+        "oddsB": 4.3,
         "played": false
       },
       {
@@ -872,8 +872,8 @@
         "probDraw": 11,
         "probB": 85,
         "oddsA": 23,
-        "oddsDraw": 8.5,
-        "oddsB": 1.125,
+        "oddsDraw": 9,
+        "oddsB": 1.12,
         "played": false
       },
       {
@@ -886,9 +886,9 @@
         "probA": 27,
         "probDraw": 23,
         "probB": 50,
-        "oddsA": 3.55,
+        "oddsA": 3.6,
         "oddsDraw": 4.1,
-        "oddsB": 1.93,
+        "oddsB": 1.91,
         "played": false
       },
       {
@@ -899,11 +899,11 @@
         "teamB": "Australia",
         "venue": "San Francisco Bay Area Stadium",
         "probA": 33,
-        "probDraw": 43,
-        "probB": 24,
-        "oddsA": 2.9,
-        "oddsDraw": 2.2,
-        "oddsB": 3.95,
+        "probDraw": 42,
+        "probB": 25,
+        "oddsA": 2.895,
+        "oddsDraw": 2.25,
+        "oddsB": 3.875,
         "played": false
       },
       {
@@ -916,9 +916,9 @@
         "probA": 20,
         "probDraw": 22,
         "probB": 58,
-        "oddsA": 4.7,
-        "oddsDraw": 4.34,
-        "oddsB": 1.66,
+        "oddsA": 4.725,
+        "oddsDraw": 4.375,
+        "oddsB": 1.65,
         "played": false
       },
       {
@@ -929,10 +929,10 @@
         "teamB": "Iraq",
         "venue": "Toronto Stadium, Toronto",
         "probA": 78,
-        "probDraw": 15,
-        "probB": 7,
-        "oddsA": 1.22,
-        "oddsDraw": 6.65,
+        "probDraw": 14,
+        "probB": 8,
+        "oddsA": 1.225,
+        "oddsDraw": 6.675,
         "oddsB": 13,
         "played": false
       },
@@ -947,8 +947,8 @@
         "probDraw": 28,
         "probB": 33,
         "oddsA": 2.43,
-        "oddsDraw": 3.44,
-        "oddsB": 2.95,
+        "oddsDraw": 3.45,
+        "oddsB": 2.91,
         "played": false
       },
       {
@@ -958,11 +958,11 @@
         "teamA": "Uruguay",
         "teamB": "Spain",
         "venue": "Estadio Guadalajara, Zapopan",
-        "probA": 13,
+        "probA": 14,
         "probDraw": 23,
-        "probB": 64,
-        "oddsA": 7.2,
-        "oddsDraw": 4.2,
+        "probB": 63,
+        "oddsA": 7,
+        "oddsDraw": 4.1899999999999995,
         "oddsB": 1.5,
         "played": false
       },
@@ -976,9 +976,9 @@
         "probA": 39,
         "probDraw": 36,
         "probB": 25,
-        "oddsA": 2.44,
+        "oddsA": 2.475,
         "oddsDraw": 2.68,
-        "oddsB": 3.85,
+        "oddsB": 3.775,
         "played": false
       },
       {
@@ -992,8 +992,8 @@
         "probDraw": 13,
         "probB": 81,
         "oddsA": 15,
-        "oddsDraw": 7.25,
-        "oddsB": 1.19,
+        "oddsDraw": 7.5,
+        "oddsB": 1.18,
         "played": false
       },
       {
@@ -1006,8 +1006,8 @@
         "probA": 6,
         "probDraw": 12,
         "probB": 82,
-        "oddsA": 15,
-        "oddsDraw": 7.9,
+        "oddsA": 15.74,
+        "oddsDraw": 8,
         "oddsB": 1.17,
         "played": false
       },
@@ -1018,12 +1018,12 @@
         "teamA": "Croatia",
         "teamB": "Ghana",
         "venue": "Philadelphia Stadium, Philadelphia",
-        "probA": 55,
-        "probDraw": 28,
+        "probA": 54,
+        "probDraw": 29,
         "probB": 17,
-        "oddsA": 1.75,
-        "oddsDraw": 3.4,
-        "oddsB": 5.57,
+        "oddsA": 1.76,
+        "oddsDraw": 3.3,
+        "oddsB": 5.795,
         "played": false
       },
       {
@@ -1036,8 +1036,8 @@
         "probA": 24,
         "probDraw": 26,
         "probB": 50,
-        "oddsA": 3.95,
-        "oddsDraw": 3.725,
+        "oddsA": 3.9450000000000003,
+        "oddsDraw": 3.77,
         "oddsB": 1.91,
         "played": false
       },
@@ -1051,9 +1051,9 @@
         "probA": 53,
         "probDraw": 24,
         "probB": 23,
-        "oddsA": 1.8,
-        "oddsDraw": 4.05,
-        "oddsB": 4.105,
+        "oddsA": 1.8050000000000002,
+        "oddsDraw": 4,
+        "oddsB": 4.155,
         "played": false
       },
       {
@@ -1068,7 +1068,7 @@
         "probB": 34,
         "oddsA": 3.9,
         "oddsDraw": 2.3,
-        "oddsB": 2.84,
+        "oddsB": 2.825,
         "played": false
       },
       {
@@ -1078,12 +1078,12 @@
         "teamA": "Jordan",
         "teamB": "Argentina",
         "venue": "Dallas Stadium, Dallas",
-        "probA": 6,
-        "probDraw": 14,
+        "probA": 7,
+        "probDraw": 13,
         "probB": 80,
-        "oddsA": 14.75,
-        "oddsDraw": 7.1,
-        "oddsB": 1.2,
+        "oddsA": 14.82,
+        "oddsDraw": 7.115,
+        "oddsB": 1.1949999999999998,
         "played": false
       }
     ]
