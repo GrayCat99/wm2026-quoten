@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T09:22:39.987Z",
+  "updatedAt": "2026-06-26T14:21:38.037Z",
   "matchdays": {
     "1": [
       {
@@ -916,9 +916,9 @@
         "probA": 20,
         "probDraw": 21,
         "probB": 59,
-        "oddsA": 4.8,
-        "oddsDraw": 4.7,
-        "oddsB": 1.62,
+        "oddsA": 4.75,
+        "oddsDraw": 4.64,
+        "oddsB": 1.63,
         "played": false
       },
       {
@@ -928,12 +928,12 @@
         "teamA": "Senegal",
         "teamB": "Iraq",
         "venue": "Toronto Stadium, Toronto",
-        "probA": 78,
+        "probA": 79,
         "probDraw": 14,
-        "probB": 8,
-        "oddsA": 1.23,
-        "oddsDraw": 6.9,
-        "oddsB": 12.5,
+        "probB": 7,
+        "oddsA": 1.22,
+        "oddsDraw": 7,
+        "oddsB": 12.625,
         "played": false
       },
       {
@@ -946,9 +946,9 @@
         "probA": 36,
         "probDraw": 29,
         "probB": 35,
-        "oddsA": 2.68,
-        "oddsDraw": 3.38,
-        "oddsB": 2.76,
+        "oddsA": 2.65,
+        "oddsDraw": 3.35,
+        "oddsB": 2.75,
         "played": false
       },
       {
@@ -958,12 +958,12 @@
         "teamA": "Uruguay",
         "teamB": "Spain",
         "venue": "Estadio Guadalajara, Zapopan",
-        "probA": 15,
-        "probDraw": 25,
-        "probB": 60,
-        "oddsA": 6.26,
-        "oddsDraw": 3.85,
-        "oddsB": 1.62,
+        "probA": 16,
+        "probDraw": 27,
+        "probB": 57,
+        "oddsA": 6,
+        "oddsDraw": 3.6,
+        "oddsB": 1.6749999999999998,
         "played": false
       },
       {
@@ -976,9 +976,9 @@
         "probA": 39,
         "probDraw": 36,
         "probB": 25,
-        "oddsA": 2.5,
-        "oddsDraw": 2.65,
-        "oddsB": 3.9,
+        "oddsA": 2.48,
+        "oddsDraw": 2.6900000000000004,
+        "oddsB": 3.835,
         "played": false
       },
       {
@@ -988,12 +988,12 @@
         "teamA": "New Zealand",
         "teamB": "Belgium",
         "venue": "BC Place, Vancouver",
-        "probA": 6,
+        "probA": 7,
         "probDraw": 12,
-        "probB": 82,
-        "oddsA": 16,
-        "oddsDraw": 8,
-        "oddsB": 1.18,
+        "probB": 81,
+        "oddsA": 14.75,
+        "oddsDraw": 7.775,
+        "oddsB": 1.185,
         "played": false
       },
       {
@@ -1006,9 +1006,9 @@
         "probA": 6,
         "probDraw": 12,
         "probB": 82,
-        "oddsA": 15.75,
-        "oddsDraw": 8.05,
-        "oddsB": 1.17,
+        "oddsA": 16.75,
+        "oddsDraw": 8.175,
+        "oddsB": 1.165,
         "played": false
       },
       {
@@ -1023,7 +1023,7 @@
         "probB": 17,
         "oddsA": 1.77,
         "oddsDraw": 3.3,
-        "oddsB": 5.75,
+        "oddsB": 5.775,
         "played": false
       },
       {
@@ -1037,7 +1037,7 @@
         "probDraw": 26,
         "probB": 51,
         "oddsA": 4.2,
-        "oddsDraw": 3.74,
+        "oddsDraw": 3.72,
         "oddsB": 1.87,
         "played": false
       },
@@ -1048,12 +1048,12 @@
         "teamA": "DR Congo",
         "teamB": "Uzbekistan",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 55,
-        "probDraw": 23,
+        "probA": 54,
+        "probDraw": 24,
         "probB": 22,
-        "oddsA": 1.75,
-        "oddsDraw": 4.12,
-        "oddsB": 4.3,
+        "oddsA": 1.77,
+        "oddsDraw": 4.04,
+        "oddsB": 4.3149999999999995,
         "played": false
       },
       {
@@ -1066,9 +1066,9 @@
         "probA": 24,
         "probDraw": 43,
         "probB": 33,
-        "oddsA": 4.07,
-        "oddsDraw": 2.25,
-        "oddsB": 2.87,
+        "oddsA": 3.91,
+        "oddsDraw": 2.24,
+        "oddsB": 2.9,
         "played": false
       },
       {
@@ -1081,7 +1081,7 @@
         "probA": 6,
         "probDraw": 13,
         "probB": 81,
-        "oddsA": 15.75,
+        "oddsA": 15.5,
         "oddsDraw": 7.5,
         "oddsB": 1.18,
         "played": false
