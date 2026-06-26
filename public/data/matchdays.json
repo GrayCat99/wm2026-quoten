@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T14:21:38.037Z",
+  "updatedAt": "2026-06-26T19:49:15.128Z",
   "matchdays": {
     "1": [
       {
@@ -913,13 +913,13 @@
         "teamA": "Norway",
         "teamB": "France",
         "venue": "Boston Stadium, Foxborough",
-        "probA": 20,
-        "probDraw": 21,
-        "probB": 59,
-        "oddsA": 4.75,
-        "oddsDraw": 4.64,
-        "oddsB": 1.63,
-        "played": false
+        "probA": 2,
+        "probDraw": 5,
+        "probB": 93,
+        "oddsA": 52.5,
+        "oddsDraw": 19,
+        "oddsB": 1.02,
+        "played": true
       },
       {
         "matchday": 3,
@@ -928,13 +928,13 @@
         "teamA": "Senegal",
         "teamB": "Iraq",
         "venue": "Toronto Stadium, Toronto",
-        "probA": 79,
-        "probDraw": 14,
-        "probB": 7,
-        "oddsA": 1.22,
-        "oddsDraw": 7,
-        "oddsB": 12.625,
-        "played": false
+        "probA": 96,
+        "probDraw": 3,
+        "probB": 1,
+        "oddsA": 1.01,
+        "oddsDraw": 29.5,
+        "oddsB": 105.5,
+        "played": true
       },
       {
         "matchday": 3,
@@ -946,9 +946,9 @@
         "probA": 36,
         "probDraw": 29,
         "probB": 35,
-        "oddsA": 2.65,
-        "oddsDraw": 3.35,
-        "oddsB": 2.75,
+        "oddsA": 2.63,
+        "oddsDraw": 3.325,
+        "oddsB": 2.775,
         "played": false
       },
       {
@@ -958,12 +958,12 @@
         "teamA": "Uruguay",
         "teamB": "Spain",
         "venue": "Estadio Guadalajara, Zapopan",
-        "probA": 16,
-        "probDraw": 27,
+        "probA": 15,
+        "probDraw": 28,
         "probB": 57,
-        "oddsA": 6,
-        "oddsDraw": 3.6,
-        "oddsB": 1.6749999999999998,
+        "oddsA": 6.225,
+        "oddsDraw": 3.5,
+        "oddsB": 1.7,
         "played": false
       },
       {
@@ -977,8 +977,8 @@
         "probDraw": 36,
         "probB": 25,
         "oddsA": 2.48,
-        "oddsDraw": 2.6900000000000004,
-        "oddsB": 3.835,
+        "oddsDraw": 2.635,
+        "oddsB": 3.9,
         "played": false
       },
       {
@@ -991,9 +991,9 @@
         "probA": 7,
         "probDraw": 12,
         "probB": 81,
-        "oddsA": 14.75,
-        "oddsDraw": 7.775,
-        "oddsB": 1.185,
+        "oddsA": 14.05,
+        "oddsDraw": 7.8,
+        "oddsB": 1.18,
         "played": false
       },
       {
@@ -1004,11 +1004,11 @@
         "teamB": "England",
         "venue": "New York New Jersey Stadium",
         "probA": 6,
-        "probDraw": 12,
-        "probB": 82,
-        "oddsA": 16.75,
-        "oddsDraw": 8.175,
-        "oddsB": 1.165,
+        "probDraw": 11,
+        "probB": 83,
+        "oddsA": 17,
+        "oddsDraw": 8.405000000000001,
+        "oddsB": 1.15,
         "played": false
       },
       {
@@ -1021,7 +1021,7 @@
         "probA": 54,
         "probDraw": 29,
         "probB": 17,
-        "oddsA": 1.77,
+        "oddsA": 1.7650000000000001,
         "oddsDraw": 3.3,
         "oddsB": 5.775,
         "played": false
@@ -1036,7 +1036,7 @@
         "probA": 23,
         "probDraw": 26,
         "probB": 51,
-        "oddsA": 4.2,
+        "oddsA": 4.15,
         "oddsDraw": 3.72,
         "oddsB": 1.87,
         "played": false
@@ -1052,8 +1052,8 @@
         "probDraw": 24,
         "probB": 22,
         "oddsA": 1.77,
-        "oddsDraw": 4.04,
-        "oddsB": 4.3149999999999995,
+        "oddsDraw": 4,
+        "oddsB": 4.4,
         "played": false
       },
       {
@@ -1066,9 +1066,9 @@
         "probA": 24,
         "probDraw": 43,
         "probB": 33,
-        "oddsA": 3.91,
-        "oddsDraw": 2.24,
-        "oddsB": 2.9,
+        "oddsA": 4.05,
+        "oddsDraw": 2.215,
+        "oddsB": 2.875,
         "played": false
       },
       {
@@ -1081,8 +1081,8 @@
         "probA": 6,
         "probDraw": 13,
         "probB": 81,
-        "oddsA": 15.5,
-        "oddsDraw": 7.5,
+        "oddsA": 15.25,
+        "oddsDraw": 7.75,
         "oddsB": 1.18,
         "played": false
       }
