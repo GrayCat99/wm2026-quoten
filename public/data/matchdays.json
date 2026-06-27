@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T08:34:02.468Z",
+  "updatedAt": "2026-06-27T13:28:49.203Z",
   "matchdays": {
     "1": [
       {
@@ -1006,9 +1006,9 @@
         "probA": 6,
         "probDraw": 11,
         "probB": 83,
-        "oddsA": 16,
-        "oddsDraw": 8.5,
-        "oddsB": 1.16,
+        "oddsA": 17,
+        "oddsDraw": 9,
+        "oddsB": 1.1549999999999998,
         "played": false
       },
       {
@@ -1018,12 +1018,12 @@
         "teamA": "Croatia",
         "teamB": "Ghana",
         "venue": "Philadelphia Stadium, Philadelphia",
-        "probA": 50,
-        "probDraw": 31,
+        "probA": 51,
+        "probDraw": 30,
         "probB": 19,
-        "oddsA": 1.91,
-        "oddsDraw": 3.15,
-        "oddsB": 5,
+        "oddsA": 1.88,
+        "oddsDraw": 3.165,
+        "oddsB": 5.125,
         "played": false
       },
       {
@@ -1036,9 +1036,9 @@
         "probA": 27,
         "probDraw": 25,
         "probB": 48,
-        "oddsA": 3.53,
-        "oddsDraw": 3.9,
-        "oddsB": 2,
+        "oddsA": 3.575,
+        "oddsDraw": 3.85,
+        "oddsB": 1.97,
         "played": false
       },
       {
@@ -1048,12 +1048,12 @@
         "teamA": "DR Congo",
         "teamB": "Uzbekistan",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 60,
-        "probDraw": 23,
-        "probB": 17,
-        "oddsA": 1.62,
-        "oddsDraw": 4.22,
-        "oddsB": 5.5,
+        "probA": 58,
+        "probDraw": 24,
+        "probB": 18,
+        "oddsA": 1.65,
+        "oddsDraw": 4.02,
+        "oddsB": 5.325,
         "played": false
       },
       {
@@ -1063,12 +1063,12 @@
         "teamA": "Algeria",
         "teamB": "Austria",
         "venue": "Kansas City Stadium, Kansas City",
-        "probA": 23,
-        "probDraw": 45,
-        "probB": 32,
-        "oddsA": 4.1,
-        "oddsDraw": 2.16,
-        "oddsB": 3,
+        "probA": 24,
+        "probDraw": 46,
+        "probB": 30,
+        "oddsA": 3.925,
+        "oddsDraw": 2.105,
+        "oddsB": 3.2,
         "played": false
       },
       {
@@ -1081,9 +1081,9 @@
         "probA": 5,
         "probDraw": 11,
         "probB": 84,
-        "oddsA": 18.25,
-        "oddsDraw": 8.5,
-        "oddsB": 1.15,
+        "oddsA": 18.75,
+        "oddsDraw": 9,
+        "oddsB": 1.14,
         "played": false
       }
     ]
