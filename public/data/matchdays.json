@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T13:28:49.203Z",
+  "updatedAt": "2026-06-27T19:18:01.267Z",
   "matchdays": {
     "1": [
       {
@@ -1003,12 +1003,12 @@
         "teamA": "Panama",
         "teamB": "England",
         "venue": "New York New Jersey Stadium",
-        "probA": 6,
+        "probA": 5,
         "probDraw": 11,
-        "probB": 83,
-        "oddsA": 17,
+        "probB": 84,
+        "oddsA": 18,
         "oddsDraw": 9,
-        "oddsB": 1.1549999999999998,
+        "oddsB": 1.14,
         "played": false
       },
       {
@@ -1018,12 +1018,12 @@
         "teamA": "Croatia",
         "teamB": "Ghana",
         "venue": "Philadelphia Stadium, Philadelphia",
-        "probA": 51,
+        "probA": 53,
         "probDraw": 30,
-        "probB": 19,
-        "oddsA": 1.88,
-        "oddsDraw": 3.165,
-        "oddsB": 5.125,
+        "probB": 17,
+        "oddsA": 1.82,
+        "oddsDraw": 3.25,
+        "oddsB": 5.625,
         "played": false
       },
       {
@@ -1033,12 +1033,12 @@
         "teamA": "Colombia",
         "teamB": "Portugal",
         "venue": "Miami Stadium, Miami",
-        "probA": 27,
+        "probA": 28,
         "probDraw": 25,
-        "probB": 48,
-        "oddsA": 3.575,
+        "probB": 47,
+        "oddsA": 3.415,
         "oddsDraw": 3.85,
-        "oddsB": 1.97,
+        "oddsB": 2.06,
         "played": false
       },
       {
@@ -1048,12 +1048,12 @@
         "teamA": "DR Congo",
         "teamB": "Uzbekistan",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 58,
-        "probDraw": 24,
-        "probB": 18,
-        "oddsA": 1.65,
-        "oddsDraw": 4.02,
-        "oddsB": 5.325,
+        "probA": 56,
+        "probDraw": 25,
+        "probB": 19,
+        "oddsA": 1.705,
+        "oddsDraw": 3.9,
+        "oddsB": 5.15,
         "played": false
       },
       {
@@ -1063,12 +1063,12 @@
         "teamA": "Algeria",
         "teamB": "Austria",
         "venue": "Kansas City Stadium, Kansas City",
-        "probA": 24,
-        "probDraw": 46,
-        "probB": 30,
-        "oddsA": 3.925,
-        "oddsDraw": 2.105,
-        "oddsB": 3.2,
+        "probA": 27,
+        "probDraw": 47,
+        "probB": 26,
+        "oddsA": 3.6,
+        "oddsDraw": 2.05,
+        "oddsB": 3.7,
         "played": false
       },
       {
@@ -1079,11 +1079,11 @@
         "teamB": "Argentina",
         "venue": "Dallas Stadium, Dallas",
         "probA": 5,
-        "probDraw": 11,
-        "probB": 84,
-        "oddsA": 18.75,
-        "oddsDraw": 9,
-        "oddsB": 1.14,
+        "probDraw": 10,
+        "probB": 85,
+        "oddsA": 20.05,
+        "oddsDraw": 9.1,
+        "oddsB": 1.1349999999999998,
         "played": false
       }
     ]
