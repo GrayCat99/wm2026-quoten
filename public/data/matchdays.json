@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T03:38:22.493Z",
+  "updatedAt": "2026-06-28T08:49:16.647Z",
   "matchdays": {
     "1": [
       {
@@ -1063,12 +1063,12 @@
         "teamA": "Algeria",
         "teamB": "Austria",
         "venue": "Kansas City Stadium, Kansas City",
-        "probA": 14,
-        "probDraw": 67,
-        "probB": 19,
-        "oddsA": 6.425,
-        "oddsDraw": 1.4,
-        "oddsB": 4.9,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -1078,12 +1078,12 @@
         "teamA": "Jordan",
         "teamB": "Argentina",
         "venue": "Dallas Stadium, Dallas",
-        "probA": 1,
-        "probDraw": 6,
-        "probB": 93,
-        "oddsA": 120,
-        "oddsDraw": 17,
-        "oddsB": 1.02,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       }
     ]
