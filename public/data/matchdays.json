@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T19:18:01.267Z",
+  "updatedAt": "2026-06-28T03:38:22.493Z",
   "matchdays": {
     "1": [
       {
@@ -1003,13 +1003,13 @@
         "teamA": "Panama",
         "teamB": "England",
         "venue": "New York New Jersey Stadium",
-        "probA": 5,
-        "probDraw": 11,
-        "probB": 84,
-        "oddsA": 18,
-        "oddsDraw": 9,
-        "oddsB": 1.14,
-        "played": false
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
+        "played": true
       },
       {
         "matchday": 3,
@@ -1018,13 +1018,13 @@
         "teamA": "Croatia",
         "teamB": "Ghana",
         "venue": "Philadelphia Stadium, Philadelphia",
-        "probA": 53,
-        "probDraw": 30,
-        "probB": 17,
-        "oddsA": 1.82,
-        "oddsDraw": 3.25,
-        "oddsB": 5.625,
-        "played": false
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
+        "played": true
       },
       {
         "matchday": 3,
@@ -1033,13 +1033,13 @@
         "teamA": "Colombia",
         "teamB": "Portugal",
         "venue": "Miami Stadium, Miami",
-        "probA": 28,
-        "probDraw": 25,
-        "probB": 47,
-        "oddsA": 3.415,
-        "oddsDraw": 3.85,
-        "oddsB": 2.06,
-        "played": false
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
+        "played": true
       },
       {
         "matchday": 3,
@@ -1048,13 +1048,13 @@
         "teamA": "DR Congo",
         "teamB": "Uzbekistan",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 56,
-        "probDraw": 25,
-        "probB": 19,
-        "oddsA": 1.705,
-        "oddsDraw": 3.9,
-        "oddsB": 5.15,
-        "played": false
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
+        "played": true
       },
       {
         "matchday": 3,
@@ -1063,13 +1063,13 @@
         "teamA": "Algeria",
         "teamB": "Austria",
         "venue": "Kansas City Stadium, Kansas City",
-        "probA": 27,
-        "probDraw": 47,
-        "probB": 26,
-        "oddsA": 3.6,
-        "oddsDraw": 2.05,
-        "oddsB": 3.7,
-        "played": false
+        "probA": 14,
+        "probDraw": 67,
+        "probB": 19,
+        "oddsA": 6.425,
+        "oddsDraw": 1.4,
+        "oddsB": 4.9,
+        "played": true
       },
       {
         "matchday": 3,
@@ -1078,13 +1078,13 @@
         "teamA": "Jordan",
         "teamB": "Argentina",
         "venue": "Dallas Stadium, Dallas",
-        "probA": 5,
-        "probDraw": 10,
-        "probB": 85,
-        "oddsA": 20.05,
-        "oddsDraw": 9.1,
-        "oddsB": 1.1349999999999998,
-        "played": false
+        "probA": 1,
+        "probDraw": 6,
+        "probB": 93,
+        "oddsA": 120,
+        "oddsDraw": 17,
+        "oddsB": 1.02,
+        "played": true
       }
     ]
   }
