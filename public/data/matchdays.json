@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T10:54:52.782Z",
+  "updatedAt": "2026-06-29T11:40:56.641Z",
   "matchdays": {
     "1": [
       {
@@ -1110,12 +1110,12 @@
         "teamA": "Brazil",
         "teamB": "Japan",
         "venue": "Houston Stadium, Houston",
-        "probA": 56,
+        "probA": 55,
         "probDraw": 26,
-        "probB": 18,
-        "oddsA": 1.7,
+        "probB": 19,
+        "oddsA": 1.72,
         "oddsDraw": 3.7,
-        "oddsB": 5.4,
+        "oddsB": 5,
         "played": false
       },
       {
@@ -1128,7 +1128,7 @@
         "probA": 70,
         "probDraw": 19,
         "probB": 11,
-        "oddsA": 1.35,
+        "oddsA": 1.36,
         "oddsDraw": 5,
         "oddsB": 9,
         "played": false
@@ -1143,7 +1143,7 @@
         "probA": 42,
         "probDraw": 31,
         "probB": 27,
-        "oddsA": 2.3,
+        "oddsA": 2.28,
         "oddsDraw": 3.1,
         "oddsB": 3.5,
         "played": false
@@ -1160,7 +1160,7 @@
         "probB": 47,
         "oddsA": 3.65,
         "oddsDraw": 3.55,
-        "oddsB": 2,
+        "oddsB": 2.02,
         "played": false
       },
       {
@@ -1204,7 +1204,7 @@
         "probDraw": 17,
         "probB": 7,
         "oddsA": 1.26,
-        "oddsDraw": 5.5,
+        "oddsDraw": 5.6,
         "oddsB": 13,
         "played": false
       },
@@ -1220,7 +1220,7 @@
         "probB": 28,
         "oddsA": 2.2,
         "oddsDraw": 3.25,
-        "oddsB": 3.46,
+        "oddsB": 3.45,
         "played": false
       },
       {
@@ -1260,11 +1260,11 @@
         "teamA": "Portugal",
         "teamB": "Croatia",
         "venue": "Toronto Stadium, Toronto",
-        "probA": 53,
-        "probDraw": 27,
+        "probA": 54,
+        "probDraw": 26,
         "probB": 20,
-        "oddsA": 1.78,
-        "oddsDraw": 3.55,
+        "oddsA": 1.77,
+        "oddsDraw": 3.575,
         "oddsB": 4.8,
         "played": false
       },
@@ -1280,7 +1280,7 @@
         "probB": 24,
         "oddsA": 2,
         "oddsDraw": 3.3,
-        "oddsB": 4,
+        "oddsB": 3.975,
         "played": false
       },
       {
@@ -1295,7 +1295,7 @@
         "probB": 38,
         "oddsA": 3.3,
         "oddsDraw": 2.9,
-        "oddsB": 2.455,
+        "oddsB": 2.45,
         "played": false
       },
       {
