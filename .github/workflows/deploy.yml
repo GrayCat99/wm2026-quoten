@@ -4,6 +4,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Automatisch deployen nachdem Update Odds durchgelaufen ist
+  workflow_run:
+    workflows: ["Update Odds"]
+    types: [completed]
+    branches: [main]
 
 permissions:
   contents: read
