@@ -8,7 +8,7 @@ const ROUND_LABELS: Record<string, string> = {
   '1':   'Spieltag 1 (Gruppenphase)',
   '2':   'Spieltag 2 (Gruppenphase)',
   '3':   'Spieltag 3 (Gruppenphase)',
-  'R32': 'Runde der letzten 32',
+  'R32': 'Sechzehntelfinale',
   'R16': 'Achtelfinale',
   'QF':  'Viertelfinale',
   'SF':  'Halbfinale',
