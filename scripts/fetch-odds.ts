@@ -88,9 +88,10 @@ async function main() {
   const schedule: ScheduleFile = JSON.parse(scheduleRaw)
 
   // Fetch odds
+  // Alle vier Regionen → 20-30 Buchmacher → robusterer Median
   const url =
     `https://api.the-odds-api.com/v4/sports/soccer_fifa_world_cup/odds/` +
-    `?apiKey=${apiKey}&regions=eu&markets=h2h&oddsFormat=decimal`
+    `?apiKey=${apiKey}&regions=eu,uk,us,au&markets=h2h&oddsFormat=decimal`
 
   console.log('Fetching odds from The Odds API…')
   const res = await fetch(url)

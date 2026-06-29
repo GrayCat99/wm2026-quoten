@@ -3,15 +3,49 @@ import { useMatchdays } from './useMatchdays'
 import { MatchRow } from './MatchRow'
 import { formatUpdatedAt } from './formatDate'
 
-const MATCHDAY_LABELS: Record<string, string> = {
-  '1': 'Spieltag 1 (Gruppenphase)',
-  '2': 'Spieltag 2 (Gruppenphase)',
-  '3': 'Spieltag 3 (Gruppenphase)',
+// Labels für bekannte Runden-Keys – wird automatisch erweitert wenn neue Keys in matchdays.json auftauchen
+const ROUND_LABELS: Record<string, string> = {
+  '1':   'Spieltag 1 (Gruppenphase)',
+  '2':   'Spieltag 2 (Gruppenphase)',
+  '3':   'Spieltag 3 (Gruppenphase)',
+  'R32': 'Runde der letzten 32',
+  'R16': 'Achtelfinale',
+  'QF':  'Viertelfinale',
+  'SF':  'Halbfinale',
+  '3rd': 'Spiel um Platz 3',
+  'F':   'Finale',
+}
+
+// Sortierreihenfolge für das Dropdown
+const ROUND_ORDER = ['1', '2', '3', 'R32', 'R16', 'QF', 'SF', '3rd', 'F']
+
+function roundLabel(key: string): string {
+  return ROUND_LABELS[key] ?? `Runde ${key}`
 }
 
 export default function App() {
-  const [selectedMatchday, setSelectedMatchday] = useState<string>('1')
   const state = useMatchdays()
+
+  // Verfügbare Runden aus den Daten lesen und sortieren
+  const availableRounds =
+    state.status === 'ok'
+      ? Object.keys(state.data.matchdays).sort(
+          (a, b) => {
+            const ai = ROUND_ORDER.indexOf(a)
+            const bi = ROUND_ORDER.indexOf(b)
+            // Unbekannte Keys ans Ende
+            return (ai === -1 ? 999 : ai) - (bi === -1 ? 999 : bi)
+          },
+        )
+      : ['1', '2', '3']
+
+  const [selectedRound, setSelectedRound] = useState<string>('1')
+
+  // Falls nach dem Laden die aktuelle Auswahl nicht existiert → erste Runde wählen
+  const activeRound =
+    state.status === 'ok' && !state.data.matchdays[selectedRound]
+      ? availableRounds[0] ?? '1'
+      : selectedRound
 
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
@@ -31,17 +65,17 @@ export default function App() {
         {/* Dropdown */}
         <div className="flex items-center gap-3 mb-6">
           <label htmlFor="matchday-select" className="text-sm font-medium text-gray-700">
-            Spieltag:
+            Runde:
           </label>
           <select
             id="matchday-select"
-            value={selectedMatchday}
-            onChange={(e) => setSelectedMatchday(e.target.value)}
+            value={activeRound}
+            onChange={(e) => setSelectedRound(e.target.value)}
             className="border border-gray-300 rounded-md px-3 py-1.5 text-sm bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-emerald-500"
           >
-            {['1', '2', '3'].map((md) => (
-              <option key={md} value={md}>
-                {MATCHDAY_LABELS[md]}
+            {availableRounds.map((key) => (
+              <option key={key} value={key}>
+                {roundLabel(key)}
               </option>
             ))}
           </select>
@@ -63,7 +97,7 @@ export default function App() {
         )}
 
         {state.status === 'ok' && (() => {
-          const matches = state.data.matchdays[selectedMatchday] ?? []
+          const matches = state.data.matchdays[activeRound] ?? []
 
           if (matches.length === 0) {
             return (

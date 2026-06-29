@@ -1,5 +1,5 @@
 export interface MatchOdds {
-  matchday: number
+  matchday: number | string
   group: string
   kickoffUtc: string
   teamA: string
