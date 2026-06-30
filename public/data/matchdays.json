@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T14:14:56.877Z",
+  "updatedAt": "2026-06-30T19:53:37.569Z",
   "matchdays": {
     "1": [
       {
@@ -1155,13 +1155,13 @@
         "teamA": "Ivory Coast",
         "teamB": "Norway",
         "venue": "Dallas Stadium, Arlington",
-        "probA": 27,
-        "probDraw": 28,
-        "probB": 45,
-        "oddsA": 3.6,
-        "oddsDraw": 3.4,
-        "oddsB": 2.105,
-        "played": false
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
+        "played": true
       },
       {
         "matchday": "R32",
@@ -1170,12 +1170,12 @@
         "teamA": "France",
         "teamB": "Sweden",
         "venue": "New York New Jersey Stadium",
-        "probA": 74,
+        "probA": 75,
         "probDraw": 16,
-        "probB": 10,
-        "oddsA": 1.29,
+        "probB": 9,
+        "oddsA": 1.28,
         "oddsDraw": 6,
-        "oddsB": 10.1,
+        "oddsB": 10,
         "played": false
       },
       {
@@ -1188,9 +1188,9 @@
         "probA": 43,
         "probDraw": 33,
         "probB": 24,
-        "oddsA": 2.23,
-        "oddsDraw": 2.9,
-        "oddsB": 3.9,
+        "oddsA": 2.2,
+        "oddsDraw": 2.88,
+        "oddsB": 4,
         "played": false
       },
       {
@@ -1203,8 +1203,8 @@
         "probA": 75,
         "probDraw": 18,
         "probB": 7,
-        "oddsA": 1.27,
-        "oddsDraw": 5.5,
+        "oddsA": 1.28,
+        "oddsDraw": 5.3,
         "oddsB": 13,
         "played": false
       },
@@ -1230,12 +1230,12 @@
         "teamA": "United States",
         "teamB": "Bosnia and Herzegovina",
         "venue": "Levi's Stadium, Santa Clara",
-        "probA": 70,
+        "probA": 69,
         "probDraw": 20,
-        "probB": 10,
-        "oddsA": 1.36,
+        "probB": 11,
+        "oddsA": 1.37,
         "oddsDraw": 4.8,
-        "oddsB": 9,
+        "oddsB": 8.5,
         "played": false
       },
       {
@@ -1279,7 +1279,7 @@
         "probDraw": 30,
         "probB": 24,
         "oddsA": 2.05,
-        "oddsDraw": 3.22,
+        "oddsDraw": 3.2,
         "oddsB": 3.9,
         "played": false
       },
@@ -1293,9 +1293,9 @@
         "probA": 28,
         "probDraw": 33,
         "probB": 39,
-        "oddsA": 3.3899999999999997,
+        "oddsA": 3.35,
         "oddsDraw": 2.87,
-        "oddsB": 2.45,
+        "oddsB": 2.47,
         "played": false
       },
       {
@@ -1310,7 +1310,7 @@
         "probB": 5,
         "oddsA": 1.17,
         "oddsDraw": 7.5,
-        "oddsB": 18.055,
+        "oddsB": 18.12,
         "played": false
       },
       {
