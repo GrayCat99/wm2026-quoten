@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T19:55:02.160Z",
+  "updatedAt": "2026-06-30T03:30:47.201Z",
   "matchdays": {
     "1": [
       {
@@ -1125,13 +1125,13 @@
         "teamA": "Germany",
         "teamB": "Paraguay",
         "venue": "Boston Stadium, Foxborough",
-        "probA": 72,
-        "probDraw": 19,
-        "probB": 9,
-        "oddsA": 1.33,
-        "oddsDraw": 5.1,
-        "oddsB": 9.9,
-        "played": false
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
+        "played": true
       },
       {
         "matchday": "R32",
@@ -1140,13 +1140,13 @@
         "teamA": "Netherlands",
         "teamB": "Morocco",
         "venue": "Estadio Monterrey, Guadalupe",
-        "probA": 41,
-        "probDraw": 31,
-        "probB": 28,
-        "oddsA": 2.35,
-        "oddsDraw": 3.1,
-        "oddsB": 3.35,
-        "played": false
+        "probA": 13,
+        "probDraw": 76,
+        "probB": 11,
+        "oddsA": 7.25,
+        "oddsDraw": 1.2149999999999999,
+        "oddsB": 8,
+        "played": true
       },
       {
         "matchday": "R32",
@@ -1156,10 +1156,10 @@
         "teamB": "Norway",
         "venue": "Dallas Stadium, Arlington",
         "probA": 27,
-        "probDraw": 27,
-        "probB": 46,
-        "oddsA": 3.5,
-        "oddsDraw": 3.49,
+        "probDraw": 28,
+        "probB": 45,
+        "oddsA": 3.6,
+        "oddsDraw": 3.4,
         "oddsB": 2.1,
         "played": false
       },
@@ -1173,9 +1173,9 @@
         "probA": 75,
         "probDraw": 16,
         "probB": 9,
-        "oddsA": 1.26,
+        "oddsA": 1.28,
         "oddsDraw": 6,
-        "oddsB": 11,
+        "oddsB": 10,
         "played": false
       },
       {
@@ -1190,7 +1190,7 @@
         "probB": 24,
         "oddsA": 2.2,
         "oddsDraw": 2.9,
-        "oddsB": 3.9,
+        "oddsB": 3.95,
         "played": false
       },
       {
@@ -1200,12 +1200,12 @@
         "teamA": "England",
         "teamB": "DR Congo",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 75,
-        "probDraw": 18,
+        "probA": 76,
+        "probDraw": 17,
         "probB": 7,
-        "oddsA": 1.27,
+        "oddsA": 1.26,
         "oddsDraw": 5.5,
-        "oddsB": 13,
+        "oddsB": 13.17,
         "played": false
       },
       {
@@ -1216,11 +1216,11 @@
         "teamB": "Senegal",
         "venue": "Seattle Stadium, Seattle",
         "probA": 43,
-        "probDraw": 29,
-        "probB": 28,
+        "probDraw": 30,
+        "probB": 27,
         "oddsA": 2.2,
-        "oddsDraw": 3.25,
-        "oddsB": 3.47,
+        "oddsDraw": 3.24,
+        "oddsB": 3.5,
         "played": false
       },
       {
@@ -1234,7 +1234,7 @@
         "probDraw": 19,
         "probB": 11,
         "oddsA": 1.36,
-        "oddsDraw": 4.9,
+        "oddsDraw": 5,
         "oddsB": 9,
         "played": false
       },
@@ -1245,12 +1245,12 @@
         "teamA": "Spain",
         "teamB": "Austria",
         "venue": "Los Angeles Stadium, Inglewood",
-        "probA": 74,
+        "probA": 73,
         "probDraw": 18,
-        "probB": 8,
+        "probB": 9,
         "oddsA": 1.3,
-        "oddsDraw": 5.25,
-        "oddsB": 11.5,
+        "oddsDraw": 5.225,
+        "oddsB": 11,
         "played": false
       },
       {
@@ -1260,12 +1260,12 @@
         "teamA": "Portugal",
         "teamB": "Croatia",
         "venue": "Toronto Stadium, Toronto",
-        "probA": 53,
+        "probA": 54,
         "probDraw": 27,
-        "probB": 20,
-        "oddsA": 1.78,
-        "oddsDraw": 3.5149999999999997,
-        "oddsB": 4.835,
+        "probB": 19,
+        "oddsA": 1.77,
+        "oddsDraw": 3.55,
+        "oddsB": 4.995,
         "played": false
       },
       {
@@ -1280,7 +1280,7 @@
         "probB": 24,
         "oddsA": 2,
         "oddsDraw": 3.3,
-        "oddsB": 4,
+        "oddsB": 3.94,
         "played": false
       },
       {
@@ -1290,12 +1290,12 @@
         "teamA": "Australia",
         "teamB": "Egypt",
         "venue": "Dallas Stadium, Arlington",
-        "probA": 29,
+        "probA": 28,
         "probDraw": 33,
-        "probB": 38,
-        "oddsA": 3.3,
+        "probB": 39,
+        "oddsA": 3.38,
         "oddsDraw": 2.9,
-        "oddsB": 2.475,
+        "oddsB": 2.45,
         "played": false
       },
       {
@@ -1323,9 +1323,9 @@
         "probA": 63,
         "probDraw": 24,
         "probB": 13,
-        "oddsA": 1.51,
-        "oddsDraw": 3.95,
-        "oddsB": 7.3,
+        "oddsA": 1.5,
+        "oddsDraw": 3.99,
+        "oddsB": 7.5,
         "played": false
       }
     ]
