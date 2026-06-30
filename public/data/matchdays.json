@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T09:31:58.240Z",
+  "updatedAt": "2026-06-30T14:14:56.877Z",
   "matchdays": {
     "1": [
       {
@@ -1158,9 +1158,9 @@
         "probA": 27,
         "probDraw": 28,
         "probB": 45,
-        "oddsA": 3.5,
+        "oddsA": 3.6,
         "oddsDraw": 3.4,
-        "oddsB": 2.12,
+        "oddsB": 2.105,
         "played": false
       },
       {
@@ -1174,8 +1174,8 @@
         "probDraw": 16,
         "probB": 10,
         "oddsA": 1.29,
-        "oddsDraw": 5.8,
-        "oddsB": 10,
+        "oddsDraw": 6,
+        "oddsB": 10.1,
         "played": false
       },
       {
@@ -1185,12 +1185,12 @@
         "teamA": "Mexico",
         "teamB": "Ecuador",
         "venue": "Mexico City Stadium, Mexico City",
-        "probA": 42,
+        "probA": 43,
         "probDraw": 33,
-        "probB": 25,
-        "oddsA": 2.24,
+        "probB": 24,
+        "oddsA": 2.23,
         "oddsDraw": 2.9,
-        "oddsB": 3.85,
+        "oddsB": 3.9,
         "played": false
       },
       {
@@ -1204,7 +1204,7 @@
         "probDraw": 18,
         "probB": 7,
         "oddsA": 1.27,
-        "oddsDraw": 5.4,
+        "oddsDraw": 5.5,
         "oddsB": 13,
         "played": false
       },
@@ -1231,10 +1231,10 @@
         "teamB": "Bosnia and Herzegovina",
         "venue": "Levi's Stadium, Santa Clara",
         "probA": 70,
-        "probDraw": 19,
-        "probB": 11,
+        "probDraw": 20,
+        "probB": 10,
         "oddsA": 1.36,
-        "oddsDraw": 4.9,
+        "oddsDraw": 4.8,
         "oddsB": 9,
         "played": false
       },
@@ -1276,10 +1276,10 @@
         "teamB": "Algeria",
         "venue": "BC Place, Vancouver",
         "probA": 46,
-        "probDraw": 29,
-        "probB": 25,
+        "probDraw": 30,
+        "probB": 24,
         "oddsA": 2.05,
-        "oddsDraw": 3.25,
+        "oddsDraw": 3.22,
         "oddsB": 3.9,
         "played": false
       },
@@ -1293,8 +1293,8 @@
         "probA": 28,
         "probDraw": 33,
         "probB": 39,
-        "oddsA": 3.365,
-        "oddsDraw": 2.88,
+        "oddsA": 3.3899999999999997,
+        "oddsDraw": 2.87,
         "oddsB": 2.45,
         "played": false
       },
