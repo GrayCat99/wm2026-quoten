@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T09:42:18.706Z",
+  "updatedAt": "2026-07-01T14:31:34.352Z",
   "matchdays": {
     "1": [
       {
@@ -1204,7 +1204,7 @@
         "probDraw": 19,
         "probB": 7,
         "oddsA": 1.29,
-        "oddsDraw": 5.2,
+        "oddsDraw": 5.1,
         "oddsB": 13,
         "played": false
       },
@@ -1219,7 +1219,7 @@
         "probDraw": 29,
         "probB": 27,
         "oddsA": 2.15,
-        "oddsDraw": 3.28,
+        "oddsDraw": 3.26,
         "oddsB": 3.6,
         "played": false
       },
@@ -1248,7 +1248,7 @@
         "probA": 72,
         "probDraw": 18,
         "probB": 10,
-        "oddsA": 1.32,
+        "oddsA": 1.33,
         "oddsDraw": 5.2,
         "oddsB": 10,
         "played": false
@@ -1280,7 +1280,7 @@
         "probB": 24,
         "oddsA": 2.02,
         "oddsDraw": 3.25,
-        "oddsB": 4,
+        "oddsB": 4.08,
         "played": false
       },
       {
@@ -1290,12 +1290,12 @@
         "teamA": "Australia",
         "teamB": "Egypt",
         "venue": "Dallas Stadium, Arlington",
-        "probA": 29,
+        "probA": 28,
         "probDraw": 33,
-        "probB": 38,
-        "oddsA": 3.35,
+        "probB": 39,
+        "oddsA": 3.38,
         "oddsDraw": 2.87,
-        "oddsB": 2.48,
+        "oddsB": 2.46,
         "played": false
       },
       {
@@ -1305,11 +1305,11 @@
         "teamA": "Argentina",
         "teamB": "Cape Verde",
         "venue": "Miami Stadium, Miami Gardens",
-        "probA": 82,
-        "probDraw": 13,
+        "probA": 83,
+        "probDraw": 12,
         "probB": 5,
-        "oddsA": 1.17,
-        "oddsDraw": 7.5,
+        "oddsA": 1.16,
+        "oddsDraw": 7.7,
         "oddsB": 19,
         "played": false
       },
