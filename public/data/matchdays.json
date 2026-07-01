@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T14:31:34.352Z",
+  "updatedAt": "2026-07-01T19:52:10.688Z",
   "matchdays": {
     "1": [
       {
@@ -1200,13 +1200,13 @@
         "teamA": "England",
         "teamB": "DR Congo",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 74,
-        "probDraw": 19,
-        "probB": 7,
-        "oddsA": 1.29,
-        "oddsDraw": 5.1,
-        "oddsB": 13,
-        "played": false
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
+        "played": true
       },
       {
         "matchday": "R32",
@@ -1215,12 +1215,12 @@
         "teamA": "Belgium",
         "teamB": "Senegal",
         "venue": "Seattle Stadium, Seattle",
-        "probA": 44,
-        "probDraw": 29,
-        "probB": 27,
-        "oddsA": 2.15,
-        "oddsDraw": 3.26,
-        "oddsB": 3.6,
+        "probA": 49,
+        "probDraw": 28,
+        "probB": 23,
+        "oddsA": 1.95,
+        "oddsDraw": 3.4,
+        "oddsB": 4.1,
         "played": false
       },
       {
@@ -1230,12 +1230,12 @@
         "teamA": "United States",
         "teamB": "Bosnia and Herzegovina",
         "venue": "Levi's Stadium, Santa Clara",
-        "probA": 69,
-        "probDraw": 20,
+        "probA": 70,
+        "probDraw": 19,
         "probB": 11,
-        "oddsA": 1.38,
-        "oddsDraw": 4.8,
-        "oddsB": 8.5,
+        "oddsA": 1.36,
+        "oddsDraw": 5,
+        "oddsB": 8.9,
         "played": false
       },
       {
@@ -1260,12 +1260,12 @@
         "teamA": "Portugal",
         "teamB": "Croatia",
         "venue": "Toronto Stadium, Toronto",
-        "probA": 54,
+        "probA": 53,
         "probDraw": 27,
-        "probB": 19,
-        "oddsA": 1.77,
-        "oddsDraw": 3.5,
-        "oddsB": 5,
+        "probB": 20,
+        "oddsA": 1.78,
+        "oddsDraw": 3.53,
+        "oddsB": 4.8,
         "played": false
       },
       {
@@ -1280,7 +1280,7 @@
         "probB": 24,
         "oddsA": 2.02,
         "oddsDraw": 3.25,
-        "oddsB": 4.08,
+        "oddsB": 4,
         "played": false
       },
       {
@@ -1293,9 +1293,9 @@
         "probA": 28,
         "probDraw": 33,
         "probB": 39,
-        "oddsA": 3.38,
-        "oddsDraw": 2.87,
-        "oddsB": 2.46,
+        "oddsA": 3.35,
+        "oddsDraw": 2.88,
+        "oddsB": 2.47,
         "played": false
       },
       {
@@ -1305,11 +1305,11 @@
         "teamA": "Argentina",
         "teamB": "Cape Verde",
         "venue": "Miami Stadium, Miami Gardens",
-        "probA": 83,
-        "probDraw": 12,
+        "probA": 82,
+        "probDraw": 13,
         "probB": 5,
         "oddsA": 1.16,
-        "oddsDraw": 7.7,
+        "oddsDraw": 7.5,
         "oddsB": 19,
         "played": false
       },
@@ -1323,8 +1323,8 @@
         "probA": 63,
         "probDraw": 24,
         "probB": 13,
-        "oddsA": 1.51,
-        "oddsDraw": 3.9,
+        "oddsA": 1.52,
+        "oddsDraw": 3.92,
         "oddsB": 7.5,
         "played": false
       }
