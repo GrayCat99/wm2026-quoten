@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T08:53:52.203Z",
+  "updatedAt": "2026-07-02T13:56:15.840Z",
   "matchdays": {
     "1": [
       {
@@ -1245,12 +1245,12 @@
         "teamA": "Spain",
         "teamB": "Austria",
         "venue": "Los Angeles Stadium, Inglewood",
-        "probA": 72,
-        "probDraw": 18,
-        "probB": 10,
-        "oddsA": 1.32,
-        "oddsDraw": 5.25,
-        "oddsB": 10,
+        "probA": 74,
+        "probDraw": 17,
+        "probB": 9,
+        "oddsA": 1.29,
+        "oddsDraw": 5.5,
+        "oddsB": 11,
         "played": false
       },
       {
@@ -1263,8 +1263,8 @@
         "probA": 55,
         "probDraw": 26,
         "probB": 19,
-        "oddsA": 1.73,
-        "oddsDraw": 3.7,
+        "oddsA": 1.72,
+        "oddsDraw": 3.72,
         "oddsB": 5,
         "played": false
       },
@@ -1275,11 +1275,11 @@
         "teamA": "Switzerland",
         "teamB": "Algeria",
         "venue": "BC Place, Vancouver",
-        "probA": 47,
-        "probDraw": 30,
+        "probA": 48,
+        "probDraw": 29,
         "probB": 23,
         "oddsA": 2,
-        "oddsDraw": 3.2,
+        "oddsDraw": 3.25,
         "oddsB": 4.1,
         "played": false
       },
@@ -1293,9 +1293,9 @@
         "probA": 28,
         "probDraw": 33,
         "probB": 39,
-        "oddsA": 3.3449999999999998,
+        "oddsA": 3.35,
         "oddsDraw": 2.88,
-        "oddsB": 2.4699999999999998,
+        "oddsB": 2.45,
         "played": false
       },
       {
@@ -1308,8 +1308,8 @@
         "probA": 83,
         "probDraw": 12,
         "probB": 5,
-        "oddsA": 1.16,
-        "oddsDraw": 7.675,
+        "oddsA": 1.15,
+        "oddsDraw": 7.7,
         "oddsB": 19,
         "played": false
       },
@@ -1323,7 +1323,7 @@
         "probA": 63,
         "probDraw": 24,
         "probB": 13,
-        "oddsA": 1.52,
+        "oddsA": 1.51,
         "oddsDraw": 3.9,
         "oddsB": 7.5,
         "played": false
