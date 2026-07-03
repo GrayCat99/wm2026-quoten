@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T13:59:36.819Z",
+  "updatedAt": "2026-07-03T19:19:01.290Z",
   "matchdays": {
     "1": [
       {
@@ -1290,13 +1290,13 @@
         "teamA": "Australia",
         "teamB": "Egypt",
         "venue": "Dallas Stadium, Arlington",
-        "probA": 26,
-        "probDraw": 33,
-        "probB": 41,
-        "oddsA": 3.6,
-        "oddsDraw": 2.88,
-        "oddsB": 2.35,
-        "played": false
+        "probA": 23,
+        "probDraw": 49,
+        "probB": 28,
+        "oddsA": 4.1,
+        "oddsDraw": 1.88,
+        "oddsB": 3.3,
+        "played": true
       },
       {
         "matchday": "R32",
@@ -1306,10 +1306,10 @@
         "teamB": "Cape Verde",
         "venue": "Miami Stadium, Miami Gardens",
         "probA": 84,
-        "probDraw": 11,
-        "probB": 5,
+        "probDraw": 12,
+        "probB": 4,
         "oddsA": 1.14,
-        "oddsDraw": 8.5,
+        "oddsDraw": 8.135,
         "oddsB": 21,
         "played": false
       },
