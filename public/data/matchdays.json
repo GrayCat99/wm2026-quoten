@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T02:48:10.769Z",
+  "updatedAt": "2026-07-03T09:15:24.918Z",
   "matchdays": {
     "1": [
       {
@@ -1275,13 +1275,13 @@
         "teamA": "Switzerland",
         "teamB": "Algeria",
         "venue": "BC Place, Vancouver",
-        "probA": 48,
-        "probDraw": 30,
-        "probB": 22,
-        "oddsA": 1.95,
-        "oddsDraw": 3.2,
-        "oddsB": 4.33,
-        "played": false
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
+        "played": true
       },
       {
         "matchday": "R32",
@@ -1290,12 +1290,12 @@
         "teamA": "Australia",
         "teamB": "Egypt",
         "venue": "Dallas Stadium, Arlington",
-        "probA": 28,
+        "probA": 27,
         "probDraw": 33,
-        "probB": 39,
-        "oddsA": 3.4,
+        "probB": 40,
+        "oddsA": 3.6,
         "oddsDraw": 2.88,
-        "oddsB": 2.455,
+        "oddsB": 2.38,
         "played": false
       },
       {
@@ -1323,9 +1323,9 @@
         "probA": 67,
         "probDraw": 22,
         "probB": 11,
-        "oddsA": 1.43,
-        "oddsDraw": 4.3,
-        "oddsB": 8.5,
+        "oddsA": 1.42,
+        "oddsDraw": 4.4,
+        "oddsB": 8.9,
         "played": false
       }
     ]
