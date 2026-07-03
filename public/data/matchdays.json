@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T09:15:24.918Z",
+  "updatedAt": "2026-07-03T13:59:36.819Z",
   "matchdays": {
     "1": [
       {
@@ -1290,12 +1290,12 @@
         "teamA": "Australia",
         "teamB": "Egypt",
         "venue": "Dallas Stadium, Arlington",
-        "probA": 27,
+        "probA": 26,
         "probDraw": 33,
-        "probB": 40,
+        "probB": 41,
         "oddsA": 3.6,
         "oddsDraw": 2.88,
-        "oddsB": 2.38,
+        "oddsB": 2.35,
         "played": false
       },
       {
@@ -1323,9 +1323,9 @@
         "probA": 67,
         "probDraw": 22,
         "probB": 11,
-        "oddsA": 1.42,
-        "oddsDraw": 4.4,
-        "oddsB": 8.9,
+        "oddsA": 1.43,
+        "oddsDraw": 4.35,
+        "oddsB": 8.5,
         "played": false
       }
     ]
