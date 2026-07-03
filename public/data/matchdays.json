@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T19:21:49.293Z",
+  "updatedAt": "2026-07-03T02:48:10.769Z",
   "matchdays": {
     "1": [
       {
@@ -1245,12 +1245,12 @@
         "teamA": "Spain",
         "teamB": "Austria",
         "venue": "Los Angeles Stadium, Inglewood",
-        "probA": 68,
-        "probDraw": 22,
-        "probB": 10,
-        "oddsA": 1.38,
-        "oddsDraw": 4.2,
-        "oddsB": 9,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -1260,13 +1260,13 @@
         "teamA": "Portugal",
         "teamB": "Croatia",
         "venue": "Toronto Stadium, Toronto",
-        "probA": 57,
-        "probDraw": 26,
-        "probB": 17,
-        "oddsA": 1.67,
-        "oddsDraw": 3.7649999999999997,
-        "oddsB": 5.5,
-        "played": false
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
+        "played": true
       },
       {
         "matchday": "R32",
@@ -1275,12 +1275,12 @@
         "teamA": "Switzerland",
         "teamB": "Algeria",
         "venue": "BC Place, Vancouver",
-        "probA": 50,
-        "probDraw": 29,
-        "probB": 21,
-        "oddsA": 1.915,
-        "oddsDraw": 3.3,
-        "oddsB": 4.4,
+        "probA": 48,
+        "probDraw": 30,
+        "probB": 22,
+        "oddsA": 1.95,
+        "oddsDraw": 3.2,
+        "oddsB": 4.33,
         "played": false
       },
       {
@@ -1290,12 +1290,12 @@
         "teamA": "Australia",
         "teamB": "Egypt",
         "venue": "Dallas Stadium, Arlington",
-        "probA": 29,
+        "probA": 28,
         "probDraw": 33,
-        "probB": 38,
-        "oddsA": 3.35,
-        "oddsDraw": 2.8600000000000003,
-        "oddsB": 2.5,
+        "probB": 39,
+        "oddsA": 3.4,
+        "oddsDraw": 2.88,
+        "oddsB": 2.455,
         "played": false
       },
       {
@@ -1305,12 +1305,12 @@
         "teamA": "Argentina",
         "teamB": "Cape Verde",
         "venue": "Miami Stadium, Miami Gardens",
-        "probA": 83,
-        "probDraw": 12,
+        "probA": 84,
+        "probDraw": 11,
         "probB": 5,
-        "oddsA": 1.15,
-        "oddsDraw": 8,
-        "oddsB": 19.75,
+        "oddsA": 1.14,
+        "oddsDraw": 8.5,
+        "oddsB": 21,
         "played": false
       },
       {
@@ -1320,12 +1320,12 @@
         "teamA": "Colombia",
         "teamB": "Ghana",
         "venue": "Kansas City Stadium, Kansas City",
-        "probA": 64,
-        "probDraw": 23,
-        "probB": 13,
-        "oddsA": 1.48,
-        "oddsDraw": 4.1,
-        "oddsB": 7.5,
+        "probA": 67,
+        "probDraw": 22,
+        "probB": 11,
+        "oddsA": 1.43,
+        "oddsDraw": 4.3,
+        "oddsB": 8.5,
         "played": false
       }
     ]
