@@ -104,6 +104,15 @@
     { "matchday": "R32", "group": "", "kickoffUtc": "2026-07-03T03:00:00Z", "teamA": "Switzerland", "teamB": "Algeria", "venue": "BC Place, Vancouver" },
     { "matchday": "R32", "group": "", "kickoffUtc": "2026-07-03T18:00:00Z", "teamA": "Australia", "teamB": "Egypt", "venue": "Dallas Stadium, Arlington" },
     { "matchday": "R32", "group": "", "kickoffUtc": "2026-07-03T22:00:00Z", "teamA": "Argentina", "teamB": "Cape Verde", "venue": "Miami Stadium, Miami Gardens" },
-    { "matchday": "R32", "group": "", "kickoffUtc": "2026-07-04T00:30:00Z", "teamA": "Colombia", "teamB": "Ghana", "venue": "Kansas City Stadium, Kansas City" }
+    { "matchday": "R32", "group": "", "kickoffUtc": "2026-07-04T00:30:00Z", "teamA": "Colombia", "teamB": "Ghana", "venue": "Kansas City Stadium, Kansas City" },
+
+    { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-04T17:00:00Z", "teamA": "Canada", "teamB": "Morocco", "venue": "Houston Stadium, Houston" },
+    { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-04T21:00:00Z", "teamA": "Paraguay", "teamB": "France", "venue": "Philadelphia Stadium, Philadelphia" },
+    { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-05T20:00:00Z", "teamA": "Brazil", "teamB": "Norway", "venue": "New York New Jersey Stadium" },
+    { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-06T00:00:00Z", "teamA": "Mexico", "teamB": "England", "venue": "Mexico City Stadium, Mexico City" },
+    { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-06T19:00:00Z", "teamA": "Portugal", "teamB": "Spain", "venue": "Dallas Stadium, Arlington" },
+    { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-07T00:00:00Z", "teamA": "United States", "teamB": "Belgium", "venue": "Seattle Stadium, Seattle" },
+    { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-07T16:00:00Z", "teamA": "Argentina", "teamB": "Egypt", "venue": "Atlanta Stadium, Atlanta" },
+    { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-07T20:00:00Z", "teamA": "Switzerland", "teamB": "Colombia", "venue": "BC Place, Vancouver" }
   ]
 }
