@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T08:34:25.816Z",
+  "updatedAt": "2026-07-04T09:13:23.829Z",
   "matchdays": {
     "1": [
       {
@@ -1327,6 +1327,128 @@
         "oddsDraw": null,
         "oddsB": null,
         "played": true
+      }
+    ],
+    "R16": [
+      {
+        "matchday": "R16",
+        "group": "",
+        "kickoffUtc": "2026-07-04T17:00:00Z",
+        "teamA": "Canada",
+        "teamB": "Morocco",
+        "venue": "Houston Stadium, Houston",
+        "probA": 19,
+        "probDraw": 28,
+        "probB": 53,
+        "oddsA": 5.1,
+        "oddsDraw": 3.435,
+        "oddsB": 1.78,
+        "played": false
+      },
+      {
+        "matchday": "R16",
+        "group": "",
+        "kickoffUtc": "2026-07-04T21:00:00Z",
+        "teamA": "Paraguay",
+        "teamB": "France",
+        "venue": "Philadelphia Stadium, Philadelphia",
+        "probA": 5,
+        "probDraw": 14,
+        "probB": 81,
+        "oddsA": 17.5,
+        "oddsDraw": 7,
+        "oddsB": 1.18,
+        "played": false
+      },
+      {
+        "matchday": "R16",
+        "group": "",
+        "kickoffUtc": "2026-07-05T20:00:00Z",
+        "teamA": "Brazil",
+        "teamB": "Norway",
+        "venue": "New York New Jersey Stadium",
+        "probA": 52,
+        "probDraw": 26,
+        "probB": 22,
+        "oddsA": 1.82,
+        "oddsDraw": 3.75,
+        "oddsB": 4.3,
+        "played": false
+      },
+      {
+        "matchday": "R16",
+        "group": "",
+        "kickoffUtc": "2026-07-06T00:00:00Z",
+        "teamA": "Mexico",
+        "teamB": "England",
+        "venue": "Mexico City Stadium, Mexico City",
+        "probA": 31,
+        "probDraw": 30,
+        "probB": 39,
+        "oddsA": 3.1,
+        "oddsDraw": 3.2,
+        "oddsB": 2.4,
+        "played": false
+      },
+      {
+        "matchday": "R16",
+        "group": "",
+        "kickoffUtc": "2026-07-06T19:00:00Z",
+        "teamA": "Portugal",
+        "teamB": "Spain",
+        "venue": "Dallas Stadium, Arlington",
+        "probA": 24,
+        "probDraw": 26,
+        "probB": 50,
+        "oddsA": 4,
+        "oddsDraw": 3.6,
+        "oddsB": 1.91,
+        "played": false
+      },
+      {
+        "matchday": "R16",
+        "group": "",
+        "kickoffUtc": "2026-07-07T00:00:00Z",
+        "teamA": "United States",
+        "teamB": "Belgium",
+        "venue": "Seattle Stadium, Seattle",
+        "probA": 35,
+        "probDraw": 28,
+        "probB": 37,
+        "oddsA": 2.75,
+        "oddsDraw": 3.35,
+        "oddsB": 2.6,
+        "played": false
+      },
+      {
+        "matchday": "R16",
+        "group": "",
+        "kickoffUtc": "2026-07-07T16:00:00Z",
+        "teamA": "Argentina",
+        "teamB": "Egypt",
+        "venue": "Atlanta Stadium, Atlanta",
+        "probA": 70,
+        "probDraw": 20,
+        "probB": 10,
+        "oddsA": 1.35,
+        "oddsDraw": 4.8,
+        "oddsB": 9.5,
+        "played": false
+      },
+      {
+        "matchday": "R16",
+        "group": "",
+        "kickoffUtc": "2026-07-07T20:00:00Z",
+        "teamA": "Switzerland",
+        "teamB": "Colombia",
+        "venue": "BC Place, Vancouver",
+        "probA": 28,
+        "probDraw": 30,
+        "probB": 42,
+        "oddsA": 3.425,
+        "oddsDraw": 3.2,
+        "oddsB": 2.23,
+        "played": false
       }
     ]
   }
