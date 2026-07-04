@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T09:13:23.829Z",
+  "updatedAt": "2026-07-04T12:58:31.780Z",
   "matchdays": {
     "1": [
       {
@@ -1337,12 +1337,12 @@
         "teamA": "Canada",
         "teamB": "Morocco",
         "venue": "Houston Stadium, Houston",
-        "probA": 19,
+        "probA": 17,
         "probDraw": 28,
-        "probB": 53,
-        "oddsA": 5.1,
-        "oddsDraw": 3.435,
-        "oddsB": 1.78,
+        "probB": 55,
+        "oddsA": 5.5,
+        "oddsDraw": 3.45,
+        "oddsB": 1.74,
         "played": false
       },
       {
@@ -1355,7 +1355,7 @@
         "probA": 5,
         "probDraw": 14,
         "probB": 81,
-        "oddsA": 17.5,
+        "oddsA": 17,
         "oddsDraw": 7,
         "oddsB": 1.18,
         "played": false
@@ -1397,12 +1397,12 @@
         "teamA": "Portugal",
         "teamB": "Spain",
         "venue": "Dallas Stadium, Arlington",
-        "probA": 24,
-        "probDraw": 26,
+        "probA": 23,
+        "probDraw": 27,
         "probB": 50,
-        "oddsA": 4,
+        "oddsA": 4.1,
         "oddsDraw": 3.6,
-        "oddsB": 1.91,
+        "oddsB": 1.9,
         "played": false
       },
       {
@@ -1415,8 +1415,8 @@
         "probA": 35,
         "probDraw": 28,
         "probB": 37,
-        "oddsA": 2.75,
-        "oddsDraw": 3.35,
+        "oddsA": 2.7,
+        "oddsDraw": 3.375,
         "oddsB": 2.6,
         "played": false
       },
@@ -1430,8 +1430,8 @@
         "probA": 70,
         "probDraw": 20,
         "probB": 10,
-        "oddsA": 1.35,
-        "oddsDraw": 4.8,
+        "oddsA": 1.36,
+        "oddsDraw": 4.75,
         "oddsB": 9.5,
         "played": false
       },
@@ -1442,10 +1442,10 @@
         "teamA": "Switzerland",
         "teamB": "Colombia",
         "venue": "BC Place, Vancouver",
-        "probA": 28,
+        "probA": 27,
         "probDraw": 30,
-        "probB": 42,
-        "oddsA": 3.425,
+        "probB": 43,
+        "oddsA": 3.45,
         "oddsDraw": 3.2,
         "oddsB": 2.23,
         "played": false
