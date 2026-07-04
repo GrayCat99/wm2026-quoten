@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T02:43:58.835Z",
+  "updatedAt": "2026-07-04T07:52:18.956Z",
   "matchdays": {
     "1": [
       {
@@ -1320,12 +1320,12 @@
         "teamA": "Colombia",
         "teamB": "Ghana",
         "venue": "Kansas City Stadium, Kansas City",
-        "probA": 83,
-        "probDraw": 14,
-        "probB": 3,
-        "oddsA": 1.13,
-        "oddsDraw": 7,
-        "oddsB": 28,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       }
     ]
