@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T21:47:32.170Z",
+  "updatedAt": "2026-07-05T02:01:11.625Z",
   "matchdays": {
     "1": [
       {
@@ -1352,12 +1352,12 @@
         "teamA": "Paraguay",
         "teamB": "France",
         "venue": "Philadelphia Stadium, Philadelphia",
-        "probA": 6,
-        "probDraw": 22,
-        "probB": 72,
-        "oddsA": 15,
-        "oddsDraw": 4.34,
-        "oddsB": 1.3,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -1367,12 +1367,12 @@
         "teamA": "Brazil",
         "teamB": "Norway",
         "venue": "New York New Jersey Stadium",
-        "probA": 52,
+        "probA": 53,
         "probDraw": 26,
-        "probB": 22,
-        "oddsA": 1.82,
-        "oddsDraw": 3.7,
-        "oddsB": 4.36,
+        "probB": 21,
+        "oddsA": 1.8,
+        "oddsDraw": 3.72,
+        "oddsB": 4.5,
         "played": false
       },
       {
@@ -1428,11 +1428,11 @@
         "teamB": "Egypt",
         "venue": "Atlanta Stadium, Atlanta",
         "probA": 69,
-        "probDraw": 21,
-        "probB": 10,
+        "probDraw": 20,
+        "probB": 11,
         "oddsA": 1.38,
-        "oddsDraw": 4.67,
-        "oddsB": 9.3,
+        "oddsDraw": 4.7,
+        "oddsB": 9.11,
         "played": false
       },
       {
@@ -1443,11 +1443,11 @@
         "teamB": "Colombia",
         "venue": "BC Place, Vancouver",
         "probA": 27,
-        "probDraw": 31,
-        "probB": 42,
-        "oddsA": 3.5,
+        "probDraw": 30,
+        "probB": 43,
+        "oddsA": 3.55,
         "oddsDraw": 3.1,
-        "oddsB": 2.25,
+        "oddsB": 2.2,
         "played": false
       }
     ]
