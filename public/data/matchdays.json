@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T13:06:39.711Z",
+  "updatedAt": "2026-07-05T16:00:14.313Z",
   "matchdays": {
     "1": [
       {
@@ -1367,12 +1367,12 @@
         "teamA": "Brazil",
         "teamB": "Norway",
         "venue": "New York New Jersey Stadium",
-        "probA": 53,
-        "probDraw": 26,
+        "probA": 54,
+        "probDraw": 25,
         "probB": 21,
-        "oddsA": 1.8,
-        "oddsDraw": 3.7350000000000003,
-        "oddsB": 4.5,
+        "oddsA": 1.775,
+        "oddsDraw": 3.75,
+        "oddsB": 4.6,
         "played": false
       },
       {
@@ -1386,8 +1386,8 @@
         "probDraw": 30,
         "probB": 39,
         "oddsA": 3.1,
-        "oddsDraw": 3.1900000000000004,
-        "oddsB": 2.4,
+        "oddsDraw": 3.15,
+        "oddsB": 2.45,
         "played": false
       },
       {
@@ -1400,9 +1400,9 @@
         "probA": 24,
         "probDraw": 26,
         "probB": 50,
-        "oddsA": 4,
+        "oddsA": 3.9,
         "oddsDraw": 3.625,
-        "oddsB": 1.9,
+        "oddsB": 1.91,
         "played": false
       },
       {
@@ -1428,11 +1428,11 @@
         "teamB": "Egypt",
         "venue": "Atlanta Stadium, Atlanta",
         "probA": 69,
-        "probDraw": 21,
-        "probB": 10,
+        "probDraw": 20,
+        "probB": 11,
         "oddsA": 1.38,
-        "oddsDraw": 4.6,
-        "oddsB": 9.5,
+        "oddsDraw": 4.7,
+        "oddsB": 9.21,
         "played": false
       },
       {
