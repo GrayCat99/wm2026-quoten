@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T16:00:14.313Z",
+  "updatedAt": "2026-07-05T19:00:46.242Z",
   "matchdays": {
     "1": [
       {
@@ -1370,9 +1370,9 @@
         "probA": 54,
         "probDraw": 25,
         "probB": 21,
-        "oddsA": 1.775,
+        "oddsA": 1.78,
         "oddsDraw": 3.75,
-        "oddsB": 4.6,
+        "oddsB": 4.5,
         "played": false
       },
       {
@@ -1383,11 +1383,11 @@
         "teamB": "England",
         "venue": "Mexico City Stadium, Mexico City",
         "probA": 31,
-        "probDraw": 30,
-        "probB": 39,
-        "oddsA": 3.1,
-        "oddsDraw": 3.15,
-        "oddsB": 2.45,
+        "probDraw": 31,
+        "probB": 38,
+        "oddsA": 3.05,
+        "oddsDraw": 3.12,
+        "oddsB": 2.48,
         "played": false
       },
       {
@@ -1400,8 +1400,8 @@
         "probA": 24,
         "probDraw": 26,
         "probB": 50,
-        "oddsA": 3.9,
-        "oddsDraw": 3.625,
+        "oddsA": 3.95,
+        "oddsDraw": 3.65,
         "oddsB": 1.91,
         "played": false
       },
@@ -1412,12 +1412,12 @@
         "teamA": "United States",
         "teamB": "Belgium",
         "venue": "Seattle Stadium, Seattle",
-        "probA": 36,
+        "probA": 37,
         "probDraw": 28,
-        "probB": 36,
-        "oddsA": 2.65,
-        "oddsDraw": 3.395,
-        "oddsB": 2.65,
+        "probB": 35,
+        "oddsA": 2.6,
+        "oddsDraw": 3.4,
+        "oddsB": 2.68,
         "played": false
       },
       {
@@ -1427,12 +1427,12 @@
         "teamA": "Argentina",
         "teamB": "Egypt",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 69,
+        "probA": 70,
         "probDraw": 20,
-        "probB": 11,
+        "probB": 10,
         "oddsA": 1.38,
         "oddsDraw": 4.7,
-        "oddsB": 9.21,
+        "oddsB": 9.355,
         "played": false
       },
       {
