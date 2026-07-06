@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T12:35:43.730Z",
+  "updatedAt": "2026-07-06T17:34:35.544Z",
   "matchdays": {
     "1": [
       {
@@ -1398,11 +1398,11 @@
         "teamB": "Spain",
         "venue": "Dallas Stadium, Arlington",
         "probA": 24,
-        "probDraw": 26,
-        "probB": 50,
+        "probDraw": 27,
+        "probB": 49,
         "oddsA": 4,
-        "oddsDraw": 3.6,
-        "oddsB": 1.91,
+        "oddsDraw": 3.5,
+        "oddsB": 1.94,
         "played": false
       },
       {
@@ -1412,12 +1412,12 @@
         "teamA": "United States",
         "teamB": "Belgium",
         "venue": "Seattle Stadium, Seattle",
-        "probA": 38,
+        "probA": 39,
         "probDraw": 28,
-        "probB": 34,
-        "oddsA": 2.5,
+        "probB": 33,
+        "oddsA": 2.45,
         "oddsDraw": 3.4,
-        "oddsB": 2.8,
+        "oddsB": 2.85,
         "played": false
       },
       {
@@ -1447,7 +1447,7 @@
         "probB": 42,
         "oddsA": 3.5,
         "oddsDraw": 3.1,
-        "oddsB": 2.3,
+        "oddsB": 2.29,
         "played": false
       }
     ]
