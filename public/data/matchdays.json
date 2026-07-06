@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T19:41:11.659Z",
+  "updatedAt": "2026-07-06T22:05:30.449Z",
   "matchdays": {
     "1": [
       {
@@ -1397,12 +1397,12 @@
         "teamA": "Portugal",
         "teamB": "Spain",
         "venue": "Dallas Stadium, Arlington",
-        "probA": 24,
-        "probDraw": 32,
-        "probB": 44,
-        "oddsA": 3.8,
-        "oddsDraw": 2.925,
-        "oddsB": 2.1,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -1431,7 +1431,7 @@
         "probDraw": 20,
         "probB": 10,
         "oddsA": 1.36,
-        "oddsDraw": 4.8,
+        "oddsDraw": 4.775,
         "oddsB": 9.5,
         "played": false
       },
@@ -1446,7 +1446,7 @@
         "probDraw": 31,
         "probB": 42,
         "oddsA": 3.5,
-        "oddsDraw": 3.08,
+        "oddsDraw": 3.09,
         "oddsB": 2.28,
         "played": false
       }
