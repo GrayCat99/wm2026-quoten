@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T07:01:03.576Z",
+  "updatedAt": "2026-07-06T12:35:43.730Z",
   "matchdays": {
     "1": [
       {
@@ -1402,7 +1402,7 @@
         "probB": 50,
         "oddsA": 4,
         "oddsDraw": 3.6,
-        "oddsB": 1.92,
+        "oddsB": 1.91,
         "played": false
       },
       {
@@ -1412,12 +1412,12 @@
         "teamA": "United States",
         "teamB": "Belgium",
         "venue": "Seattle Stadium, Seattle",
-        "probA": 37,
+        "probA": 38,
         "probDraw": 28,
-        "probB": 35,
-        "oddsA": 2.55,
+        "probB": 34,
+        "oddsA": 2.5,
         "oddsDraw": 3.4,
-        "oddsB": 2.75,
+        "oddsB": 2.8,
         "played": false
       },
       {
@@ -1427,12 +1427,12 @@
         "teamA": "Argentina",
         "teamB": "Egypt",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 69,
+        "probA": 70,
         "probDraw": 20,
-        "probB": 11,
-        "oddsA": 1.38,
-        "oddsDraw": 4.7,
-        "oddsB": 9,
+        "probB": 10,
+        "oddsA": 1.36,
+        "oddsDraw": 4.75,
+        "oddsB": 9.5,
         "played": false
       },
       {
@@ -1442,10 +1442,10 @@
         "teamA": "Switzerland",
         "teamB": "Colombia",
         "venue": "BC Place, Vancouver",
-        "probA": 28,
+        "probA": 27,
         "probDraw": 31,
-        "probB": 41,
-        "oddsA": 3.425,
+        "probB": 42,
+        "oddsA": 3.5,
         "oddsDraw": 3.1,
         "oddsB": 2.3,
         "played": false
