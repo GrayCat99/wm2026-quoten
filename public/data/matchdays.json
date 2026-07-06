@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T21:51:15.319Z",
+  "updatedAt": "2026-07-06T02:06:51.414Z",
   "matchdays": {
     "1": [
       {
@@ -1367,12 +1367,12 @@
         "teamA": "Brazil",
         "teamB": "Norway",
         "venue": "New York New Jersey Stadium",
-        "probA": 5,
-        "probDraw": 25,
-        "probB": 70,
-        "oddsA": 19,
-        "oddsDraw": 3.75,
-        "oddsB": 1.33,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -1382,13 +1382,13 @@
         "teamA": "Mexico",
         "teamB": "England",
         "venue": "Mexico City Stadium, Mexico City",
-        "probA": 31,
-        "probDraw": 31,
-        "probB": 38,
-        "oddsA": 3.05,
-        "oddsDraw": 3.1,
-        "oddsB": 2.5,
-        "played": false
+        "probA": 15,
+        "probDraw": 29,
+        "probB": 56,
+        "oddsA": 6.25,
+        "oddsDraw": 3.25,
+        "oddsB": 1.65,
+        "played": true
       },
       {
         "matchday": "R16",
@@ -1400,8 +1400,8 @@
         "probA": 24,
         "probDraw": 26,
         "probB": 50,
-        "oddsA": 3.96,
-        "oddsDraw": 3.65,
+        "oddsA": 4,
+        "oddsDraw": 3.6,
         "oddsB": 1.91,
         "played": false
       },
@@ -1417,7 +1417,7 @@
         "probB": 36,
         "oddsA": 2.65,
         "oddsDraw": 3.4,
-        "oddsB": 2.6,
+        "oddsB": 2.63,
         "played": false
       },
       {
@@ -1427,12 +1427,12 @@
         "teamA": "Argentina",
         "teamB": "Egypt",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 70,
+        "probA": 69,
         "probDraw": 20,
-        "probB": 10,
+        "probB": 11,
         "oddsA": 1.38,
         "oddsDraw": 4.7,
-        "oddsB": 9.365,
+        "oddsB": 9.24,
         "played": false
       },
       {
