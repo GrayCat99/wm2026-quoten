@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T17:05:01.302Z",
+  "updatedAt": "2026-07-07T19:39:54.448Z",
   "matchdays": {
     "1": [
       {
@@ -1427,12 +1427,12 @@
         "teamA": "Argentina",
         "teamB": "Egypt",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 40,
-        "probDraw": 32,
-        "probB": 28,
-        "oddsA": 2.35,
-        "oddsDraw": 2.9,
-        "oddsB": 3.3,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -1442,12 +1442,12 @@
         "teamA": "Switzerland",
         "teamB": "Colombia",
         "venue": "BC Place, Vancouver",
-        "probA": 27,
-        "probDraw": 31,
-        "probB": 42,
+        "probA": 26,
+        "probDraw": 33,
+        "probB": 41,
         "oddsA": 3.6,
-        "oddsDraw": 3.065,
-        "oddsB": 2.25,
+        "oddsDraw": 2.93,
+        "oddsB": 2.35,
         "played": false
       }
     ]
