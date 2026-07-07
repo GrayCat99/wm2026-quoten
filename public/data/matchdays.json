@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T22:05:30.449Z",
+  "updatedAt": "2026-07-07T02:02:16.488Z",
   "matchdays": {
     "1": [
       {
@@ -1412,13 +1412,13 @@
         "teamA": "United States",
         "teamB": "Belgium",
         "venue": "Seattle Stadium, Seattle",
-        "probA": 38,
-        "probDraw": 28,
-        "probB": 34,
-        "oddsA": 2.5,
-        "oddsDraw": 3.4,
-        "oddsB": 2.8,
-        "played": false
+        "probA": 0,
+        "probDraw": 2,
+        "probB": 98,
+        "oddsA": 451,
+        "oddsDraw": 63.5,
+        "oddsB": 1,
+        "played": true
       },
       {
         "matchday": "R16",
@@ -1431,8 +1431,8 @@
         "probDraw": 20,
         "probB": 10,
         "oddsA": 1.36,
-        "oddsDraw": 4.775,
-        "oddsB": 9.5,
+        "oddsDraw": 4.8,
+        "oddsB": 9.71,
         "played": false
       },
       {
@@ -1446,8 +1446,8 @@
         "probDraw": 31,
         "probB": 42,
         "oddsA": 3.5,
-        "oddsDraw": 3.09,
-        "oddsB": 2.28,
+        "oddsDraw": 3.1,
+        "oddsB": 2.25,
         "played": false
       }
     ]
