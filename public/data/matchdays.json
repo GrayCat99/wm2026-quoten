@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T14:05:35.453Z",
+  "updatedAt": "2026-07-07T17:05:01.302Z",
   "matchdays": {
     "1": [
       {
@@ -1427,13 +1427,13 @@
         "teamA": "Argentina",
         "teamB": "Egypt",
         "venue": "Atlanta Stadium, Atlanta",
-        "probA": 72,
-        "probDraw": 19,
-        "probB": 9,
-        "oddsA": 1.33,
-        "oddsDraw": 4.9,
-        "oddsB": 11,
-        "played": false
+        "probA": 40,
+        "probDraw": 32,
+        "probB": 28,
+        "oddsA": 2.35,
+        "oddsDraw": 2.9,
+        "oddsB": 3.3,
+        "played": true
       },
       {
         "matchday": "R16",
@@ -1445,8 +1445,8 @@
         "probA": 27,
         "probDraw": 31,
         "probB": 42,
-        "oddsA": 3.59,
-        "oddsDraw": 3.085,
+        "oddsA": 3.6,
+        "oddsDraw": 3.065,
         "oddsB": 2.25,
         "played": false
       }
