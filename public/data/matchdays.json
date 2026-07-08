@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T10:54:06.106Z",
+  "updatedAt": "2026-07-08T13:29:28.062Z",
   "matchdays": {
     "1": [
       {
@@ -1449,6 +1449,68 @@
         "oddsDraw": null,
         "oddsB": null,
         "played": true
+      }
+    ],
+    "QF": [
+      {
+        "matchday": "QF",
+        "group": "",
+        "kickoffUtc": "2026-07-09T20:00:00Z",
+        "teamA": "France",
+        "teamB": "Morocco",
+        "venue": "Boston Stadium, Foxborough",
+        "probA": 61,
+        "probDraw": 24,
+        "probB": 15,
+        "oddsA": 1.56,
+        "oddsDraw": 3.9,
+        "oddsB": 6.5,
+        "played": false
+      },
+      {
+        "matchday": "QF",
+        "group": "",
+        "kickoffUtc": "2026-07-10T19:00:00Z",
+        "teamA": "Spain",
+        "teamB": "Belgium",
+        "venue": "Los Angeles Stadium, Inglewood",
+        "probA": 59,
+        "probDraw": 24,
+        "probB": 17,
+        "oddsA": 1.62,
+        "oddsDraw": 3.95,
+        "oddsB": 5.6,
+        "played": false
+      },
+      {
+        "matchday": "QF",
+        "group": "",
+        "kickoffUtc": "2026-07-11T21:00:00Z",
+        "teamA": "Norway",
+        "teamB": "England",
+        "venue": "Miami Stadium, Miami Gardens",
+        "probA": 23,
+        "probDraw": 26,
+        "probB": 51,
+        "oddsA": 4.1,
+        "oddsDraw": 3.7,
+        "oddsB": 1.85,
+        "played": false
+      },
+      {
+        "matchday": "QF",
+        "group": "",
+        "kickoffUtc": "2026-07-12T01:00:00Z",
+        "teamA": "Argentina",
+        "teamB": "Switzerland",
+        "venue": "Kansas City Stadium, Kansas City",
+        "probA": 56,
+        "probDraw": 27,
+        "probB": 17,
+        "oddsA": 1.705,
+        "oddsDraw": 3.52,
+        "oddsB": 5.5,
+        "played": false
       }
     ]
   }
