@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T22:04:44.747Z",
+  "updatedAt": "2026-07-08T01:43:25.344Z",
   "matchdays": {
     "1": [
       {
@@ -1442,12 +1442,12 @@
         "teamA": "Switzerland",
         "teamB": "Colombia",
         "venue": "BC Place, Vancouver",
-        "probA": 7,
-        "probDraw": 88,
-        "probB": 5,
-        "oddsA": 14,
-        "oddsDraw": 1.05,
-        "oddsB": 18,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       }
     ]
