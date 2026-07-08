@@ -113,6 +113,11 @@
     { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-06T19:00:00Z", "teamA": "Portugal", "teamB": "Spain", "venue": "Dallas Stadium, Arlington" },
     { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-07T00:00:00Z", "teamA": "United States", "teamB": "Belgium", "venue": "Seattle Stadium, Seattle" },
     { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-07T16:00:00Z", "teamA": "Argentina", "teamB": "Egypt", "venue": "Atlanta Stadium, Atlanta" },
-    { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-07T20:00:00Z", "teamA": "Switzerland", "teamB": "Colombia", "venue": "BC Place, Vancouver" }
+    { "matchday": "R16", "group": "", "kickoffUtc": "2026-07-07T20:00:00Z", "teamA": "Switzerland", "teamB": "Colombia", "venue": "BC Place, Vancouver" },
+
+    { "matchday": "QF", "group": "", "kickoffUtc": "2026-07-09T20:00:00Z", "teamA": "France", "teamB": "Morocco", "venue": "Boston Stadium, Foxborough" },
+    { "matchday": "QF", "group": "", "kickoffUtc": "2026-07-10T19:00:00Z", "teamA": "Spain", "teamB": "Belgium", "venue": "Los Angeles Stadium, Inglewood" },
+    { "matchday": "QF", "group": "", "kickoffUtc": "2026-07-11T21:00:00Z", "teamA": "Norway", "teamB": "England", "venue": "Miami Stadium, Miami Gardens" },
+    { "matchday": "QF", "group": "", "kickoffUtc": "2026-07-12T01:00:00Z", "teamA": "Argentina", "teamB": "Switzerland", "venue": "Kansas City Stadium, Kansas City" }
   ]
 }
