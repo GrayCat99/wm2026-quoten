@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T21:58:14.340Z",
+  "updatedAt": "2026-07-09T01:54:12.010Z",
   "matchdays": {
     "1": [
       {
@@ -1463,7 +1463,7 @@
         "probDraw": 24,
         "probB": 15,
         "oddsA": 1.57,
-        "oddsDraw": 3.925,
+        "oddsDraw": 3.9,
         "oddsB": 6.5,
         "played": false
       },
@@ -1478,7 +1478,7 @@
         "probDraw": 24,
         "probB": 17,
         "oddsA": 1.62,
-        "oddsDraw": 4,
+        "oddsDraw": 3.98,
         "oddsB": 5.5,
         "played": false
       },
