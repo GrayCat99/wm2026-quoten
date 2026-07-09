@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T17:11:33.591Z",
+  "updatedAt": "2026-07-09T19:21:41.941Z",
   "matchdays": {
     "1": [
       {
@@ -1459,12 +1459,12 @@
         "teamA": "France",
         "teamB": "Morocco",
         "venue": "Boston Stadium, Foxborough",
-        "probA": 60,
-        "probDraw": 25,
+        "probA": 61,
+        "probDraw": 24,
         "probB": 15,
-        "oddsA": 1.5950000000000002,
-        "oddsDraw": 3.85,
-        "oddsB": 6.45,
+        "oddsA": 1.58,
+        "oddsDraw": 3.9,
+        "oddsB": 6.5,
         "played": false
       },
       {
@@ -1477,9 +1477,9 @@
         "probA": 59,
         "probDraw": 24,
         "probB": 17,
-        "oddsA": 1.63,
+        "oddsA": 1.625,
         "oddsDraw": 3.95,
-        "oddsB": 5.465,
+        "oddsB": 5.495,
         "played": false
       },
       {
@@ -1492,7 +1492,7 @@
         "probA": 23,
         "probDraw": 26,
         "probB": 51,
-        "oddsA": 4.18,
+        "oddsA": 4.2,
         "oddsDraw": 3.7,
         "oddsB": 1.85,
         "played": false
@@ -1507,8 +1507,8 @@
         "probA": 56,
         "probDraw": 27,
         "probB": 17,
-        "oddsA": 1.7,
-        "oddsDraw": 3.57,
+        "oddsA": 1.69,
+        "oddsDraw": 3.585,
         "oddsB": 5.5,
         "played": false
       }
