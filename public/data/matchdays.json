@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T22:12:44.339Z",
+  "updatedAt": "2026-07-10T01:53:04.108Z",
   "matchdays": {
     "1": [
       {
@@ -1459,12 +1459,12 @@
         "teamA": "France",
         "teamB": "Morocco",
         "venue": "Boston Stadium, Foxborough",
-        "probA": 99,
-        "probDraw": 1,
-        "probB": 0,
-        "oddsA": 1,
-        "oddsDraw": 276,
-        "oddsB": 301,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -1474,12 +1474,12 @@
         "teamA": "Spain",
         "teamB": "Belgium",
         "venue": "Los Angeles Stadium, Inglewood",
-        "probA": 59,
+        "probA": 58,
         "probDraw": 24,
-        "probB": 17,
-        "oddsA": 1.63,
-        "oddsDraw": 3.98,
-        "oddsB": 5.5,
+        "probB": 18,
+        "oddsA": 1.64,
+        "oddsDraw": 3.95,
+        "oddsB": 5.48,
         "played": false
       },
       {
@@ -1492,7 +1492,7 @@
         "probA": 23,
         "probDraw": 26,
         "probB": 51,
-        "oddsA": 4.18,
+        "oddsA": 4.13,
         "oddsDraw": 3.7,
         "oddsB": 1.85,
         "played": false
@@ -1507,7 +1507,7 @@
         "probA": 56,
         "probDraw": 27,
         "probB": 17,
-        "oddsA": 1.6949999999999998,
+        "oddsA": 1.69,
         "oddsDraw": 3.55,
         "oddsB": 5.574999999999999,
         "played": false
