@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T13:57:11.503Z",
+  "updatedAt": "2026-07-10T16:49:50.912Z",
   "matchdays": {
     "1": [
       {
@@ -1477,9 +1477,9 @@
         "probA": 59,
         "probDraw": 24,
         "probB": 17,
-        "oddsA": 1.6150000000000002,
+        "oddsA": 1.6,
         "oddsDraw": 4,
-        "oddsB": 5.55,
+        "oddsB": 5.725,
         "played": false
       },
       {
@@ -1489,12 +1489,12 @@
         "teamA": "Norway",
         "teamB": "England",
         "venue": "Miami Stadium, Miami Gardens",
-        "probA": 23,
+        "probA": 24,
         "probDraw": 26,
-        "probB": 51,
-        "oddsA": 4.1,
-        "oddsDraw": 3.6900000000000004,
-        "oddsB": 1.87,
+        "probB": 50,
+        "oddsA": 4,
+        "oddsDraw": 3.65,
+        "oddsB": 1.89,
         "played": false
       },
       {
@@ -1507,9 +1507,9 @@
         "probA": 56,
         "probDraw": 27,
         "probB": 17,
-        "oddsA": 1.69,
+        "oddsA": 1.68,
         "oddsDraw": 3.55,
-        "oddsB": 5.675000000000001,
+        "oddsB": 5.7,
         "played": false
       }
     ]
