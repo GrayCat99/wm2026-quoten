@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T19:14:47.602Z",
+  "updatedAt": "2026-07-10T21:51:04.614Z",
   "matchdays": {
     "1": [
       {
@@ -1474,12 +1474,12 @@
         "teamA": "Spain",
         "teamB": "Belgium",
         "venue": "Los Angeles Stadium, Inglewood",
-        "probA": 58,
-        "probDraw": 25,
-        "probB": 17,
-        "oddsA": 1.645,
-        "oddsDraw": 3.775,
-        "oddsB": 5.5,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -1493,8 +1493,8 @@
         "probDraw": 26,
         "probB": 50,
         "oddsA": 4,
-        "oddsDraw": 3.65,
-        "oddsB": 1.89,
+        "oddsDraw": 3.7,
+        "oddsB": 1.88,
         "played": false
       },
       {
