@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T01:44:04.127Z",
+  "updatedAt": "2026-07-12T05:47:13.205Z",
   "matchdays": {
     "1": [
       {
@@ -1504,12 +1504,12 @@
         "teamA": "Argentina",
         "teamB": "Switzerland",
         "venue": "Kansas City Stadium, Kansas City",
-        "probA": 74,
-        "probDraw": 20,
-        "probB": 6,
-        "oddsA": 1.27,
-        "oddsDraw": 4.6,
-        "oddsB": 15,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       }
     ]
