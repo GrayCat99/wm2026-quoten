@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T21:39:17.534Z",
+  "updatedAt": "2026-07-12T01:44:04.127Z",
   "matchdays": {
     "1": [
       {
@@ -1489,12 +1489,12 @@
         "teamA": "Norway",
         "teamB": "England",
         "venue": "Miami Stadium, Miami Gardens",
-        "probA": 42,
-        "probDraw": 29,
-        "probB": 29,
-        "oddsA": 2.2,
-        "oddsDraw": 3.2,
-        "oddsB": 3.2,
+        "probA": null,
+        "probDraw": null,
+        "probB": null,
+        "oddsA": null,
+        "oddsDraw": null,
+        "oddsB": null,
         "played": true
       },
       {
@@ -1504,13 +1504,13 @@
         "teamA": "Argentina",
         "teamB": "Switzerland",
         "venue": "Kansas City Stadium, Kansas City",
-        "probA": 56,
-        "probDraw": 27,
-        "probB": 17,
-        "oddsA": 1.6949999999999998,
-        "oddsDraw": 3.525,
-        "oddsB": 5.75,
-        "played": false
+        "probA": 74,
+        "probDraw": 20,
+        "probB": 6,
+        "oddsA": 1.27,
+        "oddsDraw": 4.6,
+        "oddsB": 15,
+        "played": true
       }
     ]
   }
